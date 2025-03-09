@@ -1,4 +1,4 @@
-template:: Project Home
+template:: project-template
 
 - tags:: projects, sprint-16, stories, geaux-flow, digital-garden
 - project:: Project Note
@@ -129,4 +129,15 @@ template:: Project Home
 	- ## Blog Posts:
 		- Blog posts for this project or external posts about the project
 	- ## Newsletters:
-		-
+		- Newsletters for project or where this project was shared
+	- ## Social Media:
+		- Social media content
+	- ## Others:
+		- All other content
+-
+- # Resources and References
+	- ## Credit
+	- ## Resources
+	- ## Tools
+	- ## References
+-
