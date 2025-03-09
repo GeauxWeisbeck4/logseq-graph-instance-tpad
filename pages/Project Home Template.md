@@ -90,8 +90,10 @@ template:: Project Home
 		- ## Kanban Example:
 			- {{renderer :kanbandnd_67cde311-166d-420b-a32c-5ec9c1f016e9}}
 				- Backlog
-					- Story Card One 
-					  DEADLINE: <2025-03-15 Sat>
-					  Do this thing that is a story
+					- Story Card One [[Mar 9th, 2025]]
+					  #stories 
+					  #sprint-16 
+					  #backlog
+					-
 					-
 -
