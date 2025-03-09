@@ -90,7 +90,8 @@ template:: Project Home
 		- ## Kanban Example:
 			- {{renderer :kanbandnd_67cde311-166d-420b-a32c-5ec9c1f016e9}}
 				- Backlog
-					- Story Card One
+					- ```
+					  ```Story Card One
 					  DEADLINE: <2025-03-15 Sat>
 					  #backlog
 					- Story Card Two #design
@@ -99,7 +100,13 @@ template:: Project Home
 					  CLOCK: [2025-03-09 Sun 14:57:48]--[2025-03-09 Sun 14:57:49] =>  00:00:01
 					  CLOCK: [2025-03-09 Sun 14:57:50]--[2025-03-09 Sun 14:57:50] =>  00:00:00
 					  :END:
-					-
-					-
-					-
+				- In-Progress
+					- Story In Progress
+					- Another Story
+				- Testing and Review
+					- Test One
+				- Done
+					- Completed Story
+-
+-
 -
