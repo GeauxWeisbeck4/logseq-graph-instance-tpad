@@ -37,5 +37,9 @@ template:: Project Home
 			- Stories are a way to manage project and sprint tasks, workflows, issues, etc. in a more organized way.
 				- Agile planning for effective development
 				- More than just a task - but tasks often become stories or part of stories
-				- Create a s
+				- Get their own page using template
+			- #### Story List Example:
+				- ## Stories #sprint-16
+					- [[Story Template]]
+					-
 -
