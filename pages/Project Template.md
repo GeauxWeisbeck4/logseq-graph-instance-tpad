@@ -5,4 +5,9 @@ template:: Project Home
 - date-start:: [[Mar 9th, 2025]]
 - deadline:: [[Mar 9th, 2025]]
 - sprints:: [[sprints]] - Put in Sprint Home Page here
--
+- stories:: [[stories]] - Put in any related stories here
+- github-repo:: GitHub Repo Link
+- project-link:: Domain Link for Project
+- status:: backlog
+- progress:: 40/100
+	- tech-stack:: Logseq
