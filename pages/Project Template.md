@@ -20,5 +20,8 @@ template:: Project Home
 	- ## News:
 		- Project status updates, new blog posts, sprint stuff, etc.
 - # Sprint Planning #sprints - sprint number(s) go here
-	- ## Planning
-		-
+	- ## Planning:
+		- ### To Do List:
+			- Tasks that have not yet been converted to stories and assigned points
+			- #### To Do List Example:
+				-
