@@ -76,4 +76,12 @@ template:: Project Home
 	- ## UI Design/Design System:
 		- [[Design System Template]] #design-system-template
 		- [[Style Guide Template]] #style-guide-template
-	-
+	- ## Wireframes
+		- Figma Wireframe and Penpot stuff goes here
+	- ## Final Design
+-
+- # Product Development
+	- ## Changelogs:
+		- ### 0.1.1 Changelog
+			- New feature developed
+			-
