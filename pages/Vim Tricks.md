@@ -1,0 +1,2 @@
+- `zf` motion to create a fold
+- `zF` motion and number of lines to create a fold
