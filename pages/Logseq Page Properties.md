@@ -5,6 +5,8 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 - note-level:: 2, Note
 - note-topic:: Logseq
 - page-type:: Notes Catalog, Note
+- description:: Page properties are ways we can set the frontmatter in our Logseq notes which is very useful when we go to add them to a project later on down the road.
+- alias:: Logseq Docs - Page Properties
 -
 -
 -
