@@ -7,9 +7,11 @@ tags:: projects, portfolio, sprint-16, stories, job-search, geaux-flow, digital-
 - stories:: [[Finish portfolio project]], [[Finish main pages, layouts, and components for portfolio]]
 - github-repo:: https://github.com/geauxweisbeck4/geaux-code-portfolio
 - project-link:: https://geauxweisbeck4.dev
+- status:: in-progress
+-
 - # Andrew's Portfolio Website
 	- A new developer portfolio site that I need to complete by today.
-	-
+- #
 -
 -
 -
