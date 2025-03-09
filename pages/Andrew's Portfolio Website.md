@@ -17,9 +17,14 @@ tags:: projects, portfolio, sprint-16, stories, job-search, geaux-flow, digital-
 - # Table of Contents
 	- ## Project Overview
 		- ### Background
-			-
+			- Needed a new portfolio website to showcase my projects while applying for jobs. Didn't like design on other projects so I decided to pull out an old design I love.
 		- ### Problem Statement
+			- None of the portfolio websites I've created lately are satisfying - don't have time to fuck around with design.
 		- ### Objectives
+			- Get a new portfolio site up by the end of Sprint 16
+			  logseq.order-list-type:: number
+			- Add
+			  logseq.order-list-type:: number
 		- ### Important Dates
 		- ### Notes
 	- ## Planning
