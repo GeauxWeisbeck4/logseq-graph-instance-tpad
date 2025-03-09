@@ -23,10 +23,17 @@ tags:: projects, portfolio, sprint-16, stories, job-search, geaux-flow, digital-
 		- ### Objectives
 			- Get a new portfolio site up by the end of Sprint 16
 			  logseq.order-list-type:: number
-			- Add
+			- Add relevant projects
+			  logseq.order-list-type:: number
+			- Keep working on project
 			  logseq.order-list-type:: number
 		- ### Important Dates
+			- #### Start Date: [[Mar 2nd, 2025]]
+			- #### Due Date: [[Mar 9th, 2025]]
+			- #### Sprint 16 End: [[Mar 9th, 2025]]
+			- #### Sprint 17 Begin: [[Mar 9th, 2025]]
 		- ### Notes
+			-
 	- ## Planning
 	- ## Design
 	- ## Sprint Planning
