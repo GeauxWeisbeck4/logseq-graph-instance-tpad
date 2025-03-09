@@ -14,7 +14,11 @@ tags:: notes-catalog, logseq, digital-garden, docs, geaux-flow
 - nav-next-subtopic:: [[Future Subtopic]] ->
 - nav-level-down:: [[Logseq Basic Features]] ->
 - # Logseq Features
-	-
+	- ## Feature
+		- > type:
+		  >
+		-
+		-
 		- type
 		- :
 		- [[
