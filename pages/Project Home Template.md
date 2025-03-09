@@ -88,4 +88,8 @@ template:: Project Home
 	- ## Features Roadmap:
 		- A features roadmap kanban board can be added here or linked to Asana
 		- ## Kanban Example:
-			-
+			- {{renderer :kanbandnd_67cde311-166d-420b-a32c-5ec9c1f016e9}}
+				- Backlog
+					- TODO Task Card One
+					  DEADLINE: <2025-03-15 Sat 14:53>
+					  [[Mar 9th, 2025]]
