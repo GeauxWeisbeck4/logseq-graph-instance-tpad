@@ -90,6 +90,8 @@ template:: Project Home
 		- ## Kanban Example:
 			- {{renderer :kanbandnd_67cde311-166d-420b-a32c-5ec9c1f016e9}}
 				- Backlog
-					- TODO Task Card One
-					  DEADLINE: <2025-03-15 Sat 14:53>
-					  [[Mar 9th, 2025]]
+					- Story Card One 
+					  DEADLINE: <2025-03-15 Sat>
+					  Do this thing that is a story
+					-
+-
