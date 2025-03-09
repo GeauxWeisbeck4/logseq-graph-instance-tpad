@@ -14,7 +14,12 @@ tags:: projects, portfolio, sprint-16, stories, job-search, geaux-flow, digital-
 	- A new developer portfolio site that I need to complete by today.
 - ## Updates and News
 	- Just getting this put into Logseq
--
+- # Table of Contents
+	- ## Project Overview
+		- ### Background
+		- ### Problem Statement
+		- ### Objectives
+		- ###
 -
 -
 -
