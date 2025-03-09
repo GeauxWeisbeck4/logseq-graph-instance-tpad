@@ -37,13 +37,11 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 		- Properties with no value are not visible or queryable e.g. `property::`
 		- ### Property values
 			- Property values can be a mix of almost any text, links, page links and tags. This means you can write like anywhere else in Logseq:
-- 1
-- ```
-      description:: [[Logseq]] is the fastest #triples #[[text editor]]
-    ```
-- The pages `Logseq,`, `triples` and `text editor` are all linked property values through the `description` property.
-- Built-in properties `alias` and `tags` also have an additional way of recognizing pages through comma separation:
-- 1
+				- ```
+				      description:: [[Logseq]] is the fastest #triples #[[text editor]]
+				    ```
+			- The pages `Logseq,`, `triples` and `text editor` are all linked property values through the `description` property.
+			- Built-in properties `alias` and `tags` also have an additional way of recognizing pages through comma separation:
 - ```
       tags:: motor, steering wheel
     ```
