@@ -24,4 +24,16 @@ template:: Project Home
 		- ### To Do List:
 			- Tasks that have not yet been converted to stories and assigned points
 			- #### To Do List Example:
-				-
+				- ## To Do List {{renderer :todomaster}}
+					- TODO Finish Home Page
+					- TODO Finish About Page
+					- TODO Finish Blog Section
+					- TODO Add external blog posts
+					- TODO Create site blog posts
+					- TODO Finish Project Section
+					- TODO Add projects
+					- TODO Create individual project pages
+					- TODO Finish Contact Page
+					- TODO Create Links Page
+					- TODO Deploy and share website
+					- TODO Create Stories for tasks
