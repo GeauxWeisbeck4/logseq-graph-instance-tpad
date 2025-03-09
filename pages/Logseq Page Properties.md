@@ -42,24 +42,23 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 				    ```
 			- The pages `Logseq,`, `triples` and `text editor` are all linked property values through the `description` property.
 			- Built-in properties `alias` and `tags` also have an additional way of recognizing pages through comma separation:
-- ```
-      tags:: motor, steering wheel
-    ```
-- `motor` and `steering wheel` are automatically treated as page references. If there is no comma, the single value is also treated as a page ref. See the configuration section below to enable this behavior for specific properties.
-- To prevent a property value from having any links, wrap it within quotes (`"`):
-- 1
-- ```
-      description:: "[[Logseq]] is the fastest #triples #[[text editor]]"
-    ```
-- Configuration in [[config.edn]]
-- `:property-pages/enabled?` - Boolean which determines if properties have their own pages. This is enabled by default
-- `:property-pages/exclude-list` - Specific properties to exclude from having property pages
-- `:property/separated-by-commas` - Properties that also identify page references with comma separated values like `:tags` e.g. `tags:: foo, bar`
-- `:ignored-page-references-keywords` - Properties that do not allow page referencing. Avoids the need to have to quote the property values with `""` every time
-- Background
-- Example data for this section
-- **Properties** have multiple use cases including:
-- Selecting (querying) specific pages/blocks:
+				- ```
+				      tags:: motor, steering wheel
+				    ```
+			- `motor` and `steering wheel` are automatically treated as page references. If there is no comma, the single value is also treated as a page ref. See the configuration section below to enable this behavior for specific properties.
+			- To prevent a property value from having any links, wrap it within quotes (`"`):
+				- ```
+				      description:: "[[Logseq]] is the fastest #triples #[[text editor]]"
+				    ```
+	- ## Configuration in [[config.edn]]
+		- `:property-pages/enabled?` - Boolean which determines if properties have their own pages. This is enabled by default
+		- `:property-pages/exclude-list` - Specific properties to exclude from having property pages
+		- `:property/separated-by-commas` - Properties that also identify page references with comma separated values like `:tags` e.g. `tags:: foo, bar`
+		- `:ignored-page-references-keywords` - Properties that do not allow page referencing. Avoids the need to have to quote the property values with `""` every time
+	- ## Background
+		- Example data for this section
+			- **Properties** have multiple use cases including:
+		- Selecting (querying) specific pages/blocks:
 - For example, let's query all the blocks with the property `type` and the value `book`:
 - TODOFinish explaining use cases #docs
 - Additional Links
