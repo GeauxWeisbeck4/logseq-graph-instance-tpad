@@ -9,7 +9,7 @@ tags:: notes-catalog, logseq, digital-garden, docs, geaux-flow
 - alias:: Logseq Features Home Page
 - date-created::  [[Mar 9th, 2025]] *12:55*
 - page-id:: GEAUX-NOTES-04.01-LOGSEQ-01.00.00.01
-  navigation
+- navigation:: [[Digital Garden Home]] | [[Notes Catalog]] | [[Geaux Flow]] | [[Journals]] | [[Content]]
 - nav-level-up:: <- [[Logseq Notes Home Page]]
 - nav-next-subtopic:: [[Future Subtopic]] ->
 - nav-level-down:: [[Logseq Basic Features]] ->
