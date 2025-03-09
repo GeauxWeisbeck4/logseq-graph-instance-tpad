@@ -12,4 +12,4 @@ tags:: logseq, notes-home, digital-garden, geaux-flow, docs
 	- A place for all my notes related to Logseq. Basically my own personal documentation on things I need to learn or would like to share with others.
 -
 - # Related Notes TOC
-	- -
+	-
