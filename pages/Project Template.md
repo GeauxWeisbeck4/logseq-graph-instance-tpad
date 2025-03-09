@@ -29,11 +29,7 @@ template:: Project Home
 					- TODO Finish About Page
 					- TODO Finish Blog Section
 					- TODO Add external blog posts
-					- TODO Create site blog posts
-					- TODO Finish Project Section
-					- TODO Add projects
-					- TODO Create individual project pages
-					- TODO Finish Contact Page
-					- TODO Create Links Page
-					- TODO Deploy and share website
-					- TODO Create Stories for tasks
+					- TODO Task with deadline
+					  DEADLINE: <2025-03-15 Sat 14:31>
+					- LATER Task to be done later /date
+-
