@@ -50,16 +50,19 @@ template:: Project Home
 	- ## User Persona/Target Audience:
 		- Our target audience for a project and the specific user persona for our ideal customer
 		- ### User Persona Example
-			- #### Name:
+			- ## Name:
 				- Potential Employer - AI Company
-			- #### Demographics
-				- **Gender**
+			- ## Demographics
+				- ### Gender
 					- Male/Female
-				- **Age**
+				- ### Age
 					- 40's
-				- #### Socioeconomic
+				- ## Socioeconomic
 					- Upper-Middle
 					- Motivated
 					- Business Owner
-					-
+					- Nerd/Developer
+				- #### Geography
+					- East Coast
+			- ###
 -
