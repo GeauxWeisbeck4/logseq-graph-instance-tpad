@@ -16,4 +16,9 @@ template:: Project Home
 		- Describe the project here
 - # Updates and News
 	- ## Updates:
-		- Things for
+		- Things for project logs, changes, GitHub issues, etc.
+	- ## News:
+		- Project status updates, new blog posts, sprint stuff, etc.
+- # Sprint Planning #sprints - sprint number(s) go here
+	- ## Planning
+		-
