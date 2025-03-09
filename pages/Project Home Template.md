@@ -49,7 +49,7 @@ template:: Project Home
 - # Project Design
 	- ## User Persona/Target Audience:
 		- Our target audience for a project and the specific user persona for our ideal customer
-		- ### User Persona Example
+		- ### [[User Persona Template]] #user-persona-template
 			- ## Name:
 				- Potential Employer - AI Company
 			- ## Demographics
@@ -71,5 +71,6 @@ template:: Project Home
 					- Technology
 				- ### Statements
 					- "I really like that you are motivated and driven to work hard".
-				-
+	- ## UX Research:
+		- ### UX
 -
