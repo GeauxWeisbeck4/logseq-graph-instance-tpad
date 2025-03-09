@@ -2,6 +2,11 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 
 - notes-category:: Productivity
 - notes-subcategories:: Digital Gardens, Knowledge Management
+- note-level:: 2, Note
+- note-topic:: Logseq
+- page-type:: Notes Catalog, Note
+-
+-
 -
 -
 -
