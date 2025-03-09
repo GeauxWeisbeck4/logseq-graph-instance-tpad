@@ -8,7 +8,8 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 - description:: Page properties are ways we can set the frontmatter in our Logseq notes which is very useful when we go to add them to a project later on down the road.
 - alias:: Logseq Docs - Page Properties
 - date-created::  [[Mar 9th, 2025]] *12:45*
-- page-id::
+- page-id:: GEAUX-NOTES-04.01-LOGSEQ-01.00.01.02
+-
 - # Logseq Page Properties
 	- How we can create relationships, frontmatter in pages, and much more
 - # Table of Contents
