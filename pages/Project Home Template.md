@@ -41,5 +41,7 @@ template:: Project Home
 			- #### Story List Example:
 				- ## Stories #sprint-16
 					- [[Story Template]]
-					-
+					- [[Project Home Template]] #project-template
+					- [[Geaux Flow]] #geaux-flow
+			-
 -

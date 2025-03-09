@@ -1,4 +1,4 @@
 # Logseq Templates
 	- ## Geaux Flow Templates
-		- [[Project Template]]
+		- [[Project Home Template]]
 		-
