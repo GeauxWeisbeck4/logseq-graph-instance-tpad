@@ -35,13 +35,16 @@ tags:: projects, portfolio, sprint-16, stories, job-search, geaux-flow, digital-
 		- ### Notes
 			- Need to create a #project-template
 	- ## Planning
-		- ## To Do List
+		- The to do list are things that need to be done that haven't been created as stories yet.
+		- ## To Do List {{renderer :todomaster}}
 			- TODO Finish Home Page
 			  id:: 67cddb5a-a29c-4a79-a9d2-7a92ca7f4564
 			  DEADLINE: <2025-03-09 Sun 18:18>
 			- TODO Finish About Page
 			  DEADLINE: <2025-03-09 Sun 18:19>
-			- TODO
+			- TODO Finish Blog Section
+			  DEADLINE: <2025-03-12 Wed 14:20>
+			- DEADLINE: <2025-03-09 Sun 18:20>
 		- ## Stories
 	- ## Design
 	- ## Sprint Planning
