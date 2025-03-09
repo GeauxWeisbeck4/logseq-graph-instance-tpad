@@ -52,8 +52,14 @@ template:: Project Home
 		- ### User Persona Example
 			- #### Name:
 				- Potential Employer - AI Company
-			- #### Age:
-				- 40
-			- #### Other Demographics:
-				- Male/Female
+			- #### Demographics
+				- **Gender**
+					- Male/Female
+				- **Age**
+					- 40's
+				- #### Socioeconomic
+					- Upper-Middle
+					- Motivated
+					- Business Owner
+					-
 -
