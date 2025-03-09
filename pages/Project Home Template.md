@@ -87,4 +87,5 @@ template:: Project Home
 			- Another one developed
 	- ## Features Roadmap:
 		- A features roadmap kanban board can be added here or linked to Asana
-		-
+		- ## Kanban Example:
+			-
