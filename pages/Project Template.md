@@ -10,4 +10,10 @@ template:: Project Home
 - project-link:: Domain Link for Project
 - status:: backlog
 - progress:: 40/100
-	- tech-stack:: Logseq
+- tech-stack:: Logseq
+- # Project Title Goes Here
+	- ## Project Description:
+		- Describe the project here
+- # Updates and News
+	- ## Updates:
+		- Things for
