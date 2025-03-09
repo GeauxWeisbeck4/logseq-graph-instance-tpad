@@ -15,26 +15,10 @@ tags:: notes-catalog, logseq, digital-garden, docs, geaux-flow
 - nav-level-down:: [[Logseq Basic Features]] ->
 - # Logseq Features
 	- ## Feature
-		- > type:
-		  >
-		-
-		-
-		- type
-		- :
-		- [[
-		- Class
-		- ]]
-		- parent
-		- :
-		- [[
-		- Thing
-		- ]]
-		- description
-		- :
-		- A user-facing piece of functionality. This can be a small piece or it can be a big one that consists of subfeatures
-		- url
-		- :
-		- [https://docs.logseq.com/#/page/Feature](https://docs.logseq.com/#/page/Feature)
+		- > type: [[class]]
+		  > parent: [[thing]]
+		  > description: A user-facing piece of functionality. This can be a small piece or it can be a big one that consists of subfeatures
+		  > url: https://docs.logseq.com/#/page/Feature
 		- ## Conventions
 			- A feature page has the following properties
 			- `type` (required) - Set to `[[Feature]]` to identify it as a feature
