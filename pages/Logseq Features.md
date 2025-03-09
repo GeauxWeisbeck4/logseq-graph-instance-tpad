@@ -30,6 +30,7 @@ tags:: notes-catalog, logseq, digital-garden, docs, geaux-flow
 			- `Functionality` (required) - Answers the **what** of a feature. Enumerates all the behaviors of a feature. Important so a user understands what is intended behavior and what is not (a bug).
 			- `Background` (optional) - Answers the **why** of a feature by explaining a feature in depth. Good place to find a feature's use cases.
 			- `Additional Links` (optional) - Useful place for listing additional references and related pages.
+-
 - # Notes Catalog TOC
 	- ## [[Logseq Basic Features]]
 		- [[Logseq Page Properties]]
