@@ -12,9 +12,10 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 	- How we can create relationships, frontmatter in pages, and much more
 - ## ^ [Go Up One Note - Logseq Notes Home Page]([[Logseq Notes Home Page]])
 - -> [Go To Next Note]([[]])
-- Properties
-- type:
-- [[Feature]]
+- # Table of Contents
+	- ## Properties
+		- type:
+			- [[Feature]]
 - platforms:
 - [[All Platforms]]
 - description:
