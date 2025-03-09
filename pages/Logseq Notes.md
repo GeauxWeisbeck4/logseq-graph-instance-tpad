@@ -1,20 +1,7 @@
 tags:: logseq, notes-home, digital-garden, geaux-flow, docs
 
 - notes-category:: Productivity
--
-- Changelog
--
-	- ##
-		- Contribute
-		- Make a [Feature Request](https://discuss.logseq.com/)
-		- [Check us out on Github](https://github.com/logseq/logseq)
-		- [Contribute to Our Docs](https://github.com/logseq/docs)
-		- Create a plugin! Start with
-		- Plugins 101
-		- 💬
-		- Message us on [Discord](https://discord.gg/KpN4eHY) (We love feedback!)
-		- Ask questions in the [forum](https://discuss.logseq.com)
-		- Tweet us [@logseq](https://twitter.com/logseq)
+- notes-subcategories:: Digital Gardens, Knowledge Management
 	- ## Properties
 		- type:
 		- [[Feature]]
@@ -65,3 +52,4 @@ tags:: logseq, notes-home, digital-garden, geaux-flow, docs
 		- TODOFinish explaining use cases #docs
 	- ## Additional Links
 		- [[Built-in Properties]]
+-
