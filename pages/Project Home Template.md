@@ -47,5 +47,8 @@ template:: Project Home
 					- [[Geaux Flow]] #geaux-flow
 -
 - # Project Design
-	- ##
+	- ## User Persona/Target Audience:
+		- Our target audience for a project and the specific user persona for our ideal customer
+		- ### User Persona Example
+			-
 -
