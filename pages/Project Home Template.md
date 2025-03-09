@@ -105,6 +105,16 @@ template:: Project Home
 				- Done
 					- Completed Story
 	- ## Features Roadmap:
-		- A section for planning fut
+		- A section for planning features
+	- # Testing, Debugging, and Auto Testing:
+		- ## Unit Tests:
+			- Unit tests for the project
+		- ## Debugging:
+			- Specific debugging examples
+		- ## Auto and Browser Testing
+			- Tools used
+			- Tasks automated
+			- Examples of tests
+	-
 -
 -
