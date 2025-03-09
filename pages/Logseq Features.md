@@ -8,14 +8,14 @@ tags:: notes-catalog, logseq, digital-garden, docs, geaux-flow
 - description:: About Logseq Features and what features are listed in this digital garden notes-catalog.
 - alias:: Logseq Features Home Page
 - date-created::  [[Mar 9th, 2025]] *12:55*
-- nav-level-up
+- nav-level-up:: [[Logseq Notes Home Page]]
+- nav-next-subtopic:: [[Future Subtopic]]
+- nav-level-down:: [[Logseq Basic Features]]
+-
 -
 - # Logseq Features
 	- Where you will find all of the Basic Features,
 - ## Navigation
-	- # <- [Go Up One Level]([[Logseq Notes Home Page]])
-		- ## -> Go to Next Note Subtopic
-			- ### -> [Go to Basic Features]([[Logseq Basic Features]])
 - # Notes Catalog TOC
 	- ## [[Logseq Basic Features]]
 		- [[Logseq Page Properties]]
