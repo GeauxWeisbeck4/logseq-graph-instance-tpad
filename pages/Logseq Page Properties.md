@@ -9,6 +9,7 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 - alias:: Logseq Docs - Page Properties
 - date-created::  [[Mar 9th, 2025]] *12:45*
 - page-id:: GEAUX-NOTES-04.01-LOGSEQ-01.00.01.02
+- navigation:: [[Digital Garden Home]] | [[Notes Catalog]] | [[Geaux Flow]] | [[Journals]] | [[Content]]
 -
 - # Logseq Page Properties
 	- How we can create relationships, frontmatter in pages, and much more
