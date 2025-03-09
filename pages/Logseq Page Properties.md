@@ -17,14 +17,14 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 	- How we can create relationships, frontmatter in pages, and much more
 - # Table of Contents
 	- ## Properties
-		- type:
+		- ### type:
 			- [Feature](https://docs.logseq.com/#/page/feature)
-		- platforms:
-			- [[All Platforms]]
-- description:
-- Annotates any block or page with multiple pairs of values e.g. `rating:: 8` or `name:: foo`. Building block for organizing graphs
-- Usage
-- Property naming rules:
+		- ### platforms:
+			- [All Platforms](https://docs.logseq.com/#/page/all%20platforms)
+		- ### description:
+			- Annotates any block or page with multiple pairs of values e.g. `rating:: 8` or `name:: foo`. Building block for organizing graphs
+		- ## Usage
+			- ### Property naming rules
 - To enter a property, type `::` to autocomplete a property name. After entering a property name, autocomplete a property value that is _specific_ to that property. To see this in action, [see this demo](https://www.loom.com/share/27804e1bcd7b4e4bbf71ec14956c42fe).
 - Markdown:
 - syntax: `property:: value`
