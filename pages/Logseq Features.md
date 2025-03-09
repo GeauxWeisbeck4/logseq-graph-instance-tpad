@@ -10,7 +10,10 @@ tags:: notes-catalog, logseq, digital-garden, docs, geaux-flow
 - date-created::  [[Mar 9th, 2025]] *12:55*
 - # Logseq Features
 	- Where you will find all of the Basic Features,
-- # <- [Go Up One Level]
+-
+- # <- [Go Up One Level]([[Logseq Notes Home Page]])
+- # -> [Go to Next Note Subtopic]([[]])
+- ## -> [Go to Basic Features]([[Logseq Basic Features]])
 - # Notes Catalog TOC
 	- ## [[Logseq Basic Features]]
 		- [[Logseq Page Properties]]
