@@ -10,8 +10,8 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 - date-created::  [[Mar 9th, 2025]] *12:45*
 - # Logseq Page Properties
 	- How we can create relationships, frontmatter in pages, and much more
-- ## []
--
+- ## ^ [Go Up One Note - Logseq Notes Home Page]([[Logseq Notes Home Page]])
+- -> [Go To Next Note]([[]])
 - Properties
 - type:
 - [[Feature]]
