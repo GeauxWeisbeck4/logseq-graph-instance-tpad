@@ -17,6 +17,7 @@ tags:: projects, portfolio, sprint-16, stories, job-search, geaux-flow, digital-
 - # Table of Contents
 	- ## Project Overview
 		- ### Background
+			-
 		- ### Problem Statement
 		- ### Objectives
 		- ### Important Dates
@@ -27,6 +28,8 @@ tags:: projects, portfolio, sprint-16, stories, job-search, geaux-flow, digital-
 	- ## Development
 	- ## Testing
 	- ## Code Snippets
+	- ## Ideas
+	- ## Miscellaneous
 -
 -
 -
