@@ -15,9 +15,9 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 - # Table of Contents
 	- ## Properties
 		- type:
-			- [[Feature]]
-- platforms:
-- [[All Platforms]]
+			- [Feature](https://docs.logseq.com/#/page/feature)
+		- platforms:
+		- [[All Platforms]]
 - description:
 - Annotates any block or page with multiple pairs of values e.g. `rating:: 8` or `name:: foo`. Building block for organizing graphs
 - Usage
