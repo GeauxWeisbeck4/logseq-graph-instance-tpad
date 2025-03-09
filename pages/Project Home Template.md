@@ -85,15 +85,12 @@ template:: Project Home
 		- ### 0.1.1 Changelog [[Mar 9th, 2025]]
 			- New feature developed
 			- Another one developed
-	- ## Features Roadmap:
+	- ## Stories Kanban:
 		- A features roadmap kanban board can be added here or linked to Asana
 		- ## Kanban Example:
 			- {{renderer :kanbandnd_67cde311-166d-420b-a32c-5ec9c1f016e9}}
 				- Backlog
-					- ```
-					  ```Story Card One
-					  DEADLINE: <2025-03-15 Sat>
-					  #backlog
+					- Story Card One
 					- Story Card Two #design
 					- Story Card Three
 					  :LOGBOOK:
@@ -107,6 +104,7 @@ template:: Project Home
 					- Test One
 				- Done
 					- Completed Story
--
+	- ## Features Roadmap:
+		- A section for planning fut
 -
 -
