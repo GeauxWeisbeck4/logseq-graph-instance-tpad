@@ -72,5 +72,8 @@ template:: Project Home
 				- ### Statements
 					- "I really like that you are motivated and driven to work hard".
 	- ## UX Research:
-		- ### UX
+		- ### [[UX Research Template]] #ux-research-template
+	- ## UI Design/Design System:
+		- [[Design System Template]] #design-system-template
+		-
 -
