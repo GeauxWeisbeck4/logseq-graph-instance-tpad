@@ -1,5 +1,6 @@
 template:: Style Guide
 
+- tags:: ui-design, design-system, style-guide, design, projects, geaux-flow
 -
 - # Style Guide
   template:: style-guide
