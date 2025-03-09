@@ -34,5 +34,8 @@ template:: Project Home
 					- LATER Task to be done later
 					- DONE Completed Task
 		- ### Stories:
-			- Stories are a way to manage project and sprint
+			- Stories are a way to manage project and sprint tasks, workflows, issues, etc. in a more organized way.
+				- Agile planning for effective development
+				- More than just a task - but tasks often become stories or part of stories
+				- Create a s
 -
