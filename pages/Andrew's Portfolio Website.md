@@ -19,7 +19,14 @@ tags:: projects, portfolio, sprint-16, stories, job-search, geaux-flow, digital-
 		- ### Background
 		- ### Problem Statement
 		- ### Objectives
-		- ###
+		- ### Important Dates
+		- ### Notes
+	- ## Planning
+	- ## Design
+	- ## Sprint Planning
+	- ## Development
+	- ## Testing
+	- ## Code Snippets
 -
 -
 -
