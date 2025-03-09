@@ -33,8 +33,16 @@ tags:: projects, portfolio, sprint-16, stories, job-search, geaux-flow, digital-
 			- #### Sprint 16 End: [[Mar 9th, 2025]]
 			- #### Sprint 17 Begin: [[Mar 9th, 2025]]
 		- ### Notes
-			-
+			- Need to create a #project-template
 	- ## Planning
+		- ## To Do List
+			- TODO Finish Home Page
+			  id:: 67cddb5a-a29c-4a79-a9d2-7a92ca7f4564
+			  DEADLINE: <2025-03-09 Sun 18:18>
+			- TODO Finish About Page
+			  DEADLINE: <2025-03-09 Sun 18:19>
+			- TODO
+		- ## Stories
 	- ## Design
 	- ## Sprint Planning
 	- ## Development
