@@ -57,12 +57,19 @@ template:: Project Home
 					- Male/Female
 				- ### Age
 					- 40's
-				- ## Socioeconomic
+				- ### Socioeconomic
 					- Upper-Middle
 					- Motivated
 					- Business Owner
 					- Nerd/Developer
-				- #### Geography
+				- ### Geography
 					- East Coast
-			- ###
+			- ## Personality
+				- ### Interests
+					- Programming
+					- Entrepreneurship
+					- Technology
+				- ### Statements
+					- "I really like that you are motivated and driven to work hard".
+				-
 -
