@@ -120,6 +120,13 @@ template:: Project Home
 	- ## Git and Deployment:
 		- GitHub/GitLab repos and issues
 		- Netlify, Vercel, and others
-	-
+	- ## Statistics:
+		- ### App/Site Views
+		- ### Sentry
+		- ### Others
 -
--
+- # Content
+	- ## Blog Posts:
+		- Blog posts for this project or external posts about the project
+	- ## Newsletters:
+		-
