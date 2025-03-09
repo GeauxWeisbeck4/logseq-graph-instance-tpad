@@ -58,8 +58,9 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 	- ## Background
 		- Example data for this section
 			- **Properties** have multiple use cases including:
-		- Selecting (querying) specific pages/blocks:
-- For example, let's query all the blocks with the property `type` and the value `book`:
-- TODOFinish explaining use cases #docs
-- Additional Links
-- [[Built-in Properties]]
+				- Selecting (querying) specific pages/blocks:
+					- For example, let's query all the blocks with the property `type` and the value `book`:
+					- TODO Find other use cases for **Properties**
+	- ## Additional Links
+		- [[Logseq Built-in Properties]]
+-
