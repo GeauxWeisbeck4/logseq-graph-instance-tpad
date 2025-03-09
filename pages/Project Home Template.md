@@ -106,15 +106,20 @@ template:: Project Home
 					- Completed Story
 	- ## Features Roadmap:
 		- A section for planning features
-	- # Testing, Debugging, and Auto Testing:
-		- ## Unit Tests:
+	- ## Testing, Debugging, and Auto Testing:
+		- ### Unit Tests:
 			- Unit tests for the project
-		- ## Debugging:
+		- ### Debugging:
 			- Specific debugging examples
-		- ## Auto and Browser Testing
+		- ### Auto and Browser Testing
 			- Tools used
 			- Tasks automated
 			- Examples of tests
+	- ## CI/CD Pipeline:
+		- Tools and process
+	- ## Git and Deployment:
+		- GitHub/GitLab repos and issues
+		- Netlify, Vercel, and others
 	-
 -
 -
