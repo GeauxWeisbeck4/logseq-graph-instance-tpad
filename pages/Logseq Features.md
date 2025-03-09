@@ -13,7 +13,9 @@ tags:: notes-catalog, logseq, digital-garden, docs, geaux-flow
 - nav-level-up:: <- [[Logseq Notes Home Page]]
 - nav-next-subtopic:: [[Future Subtopic]] ->
 - nav-level-down:: [[Logseq Basic Features]] ->
--
+- ## Folder Structure
+- ```
+  ```
 -
 - # Logseq Features
 	- Where you will find all of the Basic Features,
