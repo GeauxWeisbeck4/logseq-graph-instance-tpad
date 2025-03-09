@@ -31,5 +31,8 @@ template:: Project Home
 					- TODO Add external blog posts
 					- TODO Task with deadline
 					  DEADLINE: <2025-03-15 Sat 14:31>
-					- LATER Task to be done later /date
+					- LATER Task to be done later
+					- DONE Completed Task
+		- ### Stories:
+			- Stories are a way to manage project and sprint
 -
