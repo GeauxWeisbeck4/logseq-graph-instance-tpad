@@ -12,7 +12,7 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 - page-id:: GEAUX-NOTES-04.01-LOGSEQ-01.00.01.02
 - navigation:: [[Digital Garden Home]] | [[Notes Catalog]] | [[Geaux Flow]] | [[Journals]] | [[Content]]
 - nav-level-up:: [[Logseq Basic Features]]
-- nav
+- nav-next-note:: [[Future Logseq Note]]
 - # Logseq Page Properties
 	- How we can create relationships, frontmatter in pages, and much more
 - # Table of Contents
@@ -20,7 +20,7 @@ tags:: logseq, notes-catalog, digital-garden, geaux-flow, docs
 		- type:
 			- [Feature](https://docs.logseq.com/#/page/feature)
 		- platforms:
-		- [[All Platforms]]
+			- [[All Platforms]]
 - description:
 - Annotates any block or page with multiple pairs of values e.g. `rating:: 8` or `name:: foo`. Building block for organizing graphs
 - Usage
