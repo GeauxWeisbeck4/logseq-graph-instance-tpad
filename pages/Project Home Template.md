@@ -93,8 +93,13 @@ template:: Project Home
 					- Story Card One
 					  DEADLINE: <2025-03-15 Sat>
 					  #backlog
-					- Story Card Two
+					- Story Card Two #design
 					- Story Card Three
+					  :LOGBOOK:
+					  CLOCK: [2025-03-09 Sun 14:57:48]--[2025-03-09 Sun 14:57:49] =>  00:00:01
+					  CLOCK: [2025-03-09 Sun 14:57:50]--[2025-03-09 Sun 14:57:50] =>  00:00:00
+					  :END:
+					-
 					-
 					-
 -
