@@ -82,6 +82,9 @@ template:: Project Home
 -
 - # Product Development
 	- ## Changelogs:
-		- ### 0.1.1 Changelog
+		- ### 0.1.1 Changelog [[Mar 9th, 2025]]
 			- New feature developed
-			-
+			- Another one developed
+	- ## Features Roadmap:
+		- A features roadmap kanban board can be added here or linked to Asana
+		-
