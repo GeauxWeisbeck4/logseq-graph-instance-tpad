@@ -34,5 +34,6 @@ tags:: notes-catalog, logseq, digital-garden, docs, geaux-flow
 - # Notes Catalog TOC
 	- ## [[Logseq Basic Features]]
 		- [[Logseq Page Properties]]
--
+		- [[Logseq Tasks]]
+		-
 -
