@@ -42,7 +42,7 @@ tags:: projects, portfolio, sprint-16, stories, job-search, geaux-flow, digital-
 			  DEADLINE: <2025-03-09 Sun 18:18>
 			- TODO Finish About Page
 			  DEADLINE: <2025-03-09 Sun 18:19>
-			- TODO Finish Blog Section
+			- DONE Finish Blog Section
 			  DEADLINE: <2025-03-12 Wed 14:20>
 				- TODO Add external blog posts
 				- TODO Create site blog posts

@@ -31,7 +31,7 @@ template:: project-template
 					- TODO Finish About Page
 					- TODO Finish Blog Section
 					- TODO Add external blog posts
-					- TODO Task with deadline
+					- DONE Task with deadline
 					  DEADLINE: <2025-03-15 Sat 14:31>
 					- LATER Task to be done later
 					- DONE Completed Task
