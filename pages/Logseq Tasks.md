@@ -126,11 +126,8 @@
 			- `++`: It'll keep it on the same day of the week.
 			- `+`: It'll repeat in X y/m/w/d/h from when you originally scheduled it.
 		- ### Time tracker
-			-
-				- 1.  ⏱️ Time tracker
+			- 1.  ⏱️ Time tracker
 			- Logseq will record the time when you add or update the block todo keyword and display the spent time once you checked the task.
 				- Example
 					- The spent time for this block is `18s`.
-					- you can toggle this off by [[
-			- setting/enable timetracking
-			- ]]
+					- you can toggle this off by [[setting/enable timetracking]]
