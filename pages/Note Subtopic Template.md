@@ -16,4 +16,5 @@ nav-level-down:: [[Notes Subtopics]] ->
 	- # <%note-topic%> Home Page
 		- <%description%>
 	- # <%note-topic%> Related Notes TOC
-		- <%nav-
+		- ## <%nav-level-down%>
+-
