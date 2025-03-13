@@ -21,7 +21,6 @@ nav-next-note:: ->
 	- ## The Problem: Prop Drilling and Callback Chains
 		- In modern application development, managing state and communication between components can quickly become cumbersome. This is especially true in scenarios involving **props drilling**—where data must be passed down through multiple levels of nested components—and **callback chains**, which can lead to tangled logic and make code harder to maintain or debug.
 		- These challenges often create tightly coupled components, reduce flexibility, and increase the cognitive load for developers trying to trace how data flows through the application. Without a better approach, this complexity can significantly slow down development and lead to a **brittle codebase**.
-	-
 	- ### A Common Problem: Callback Complexity
 		- Take this scenario, for example:
 			- The Parent passes props to **Children A**.
@@ -31,4 +30,7 @@ nav-next-note:: ->
 		- ![PropsDrilling and CallbackChains](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqv02a84oz8bnyecnuiyy.png)
 		- To address **props drilling**, we often turn to solutions like global state management libraries (e.g., **Zustand**) to streamline data sharing. But what about managing callbacks?
 		- This is where an **event-driven approach** can be a game-changer. By decoupling components and relying on events to handle interactions, we can significantly simplify callback management. Let’s explore how this approach works.
+	- ## The Solution: Enter the Event-Driven Approach
+		- ![Event lifecycle](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fakspkpcn7xme6t9ymjsw.png)
+		- Instead of relying on direct callbacks to communicate up the tree, **_an event-driven architecture decouples components and centralizes communication_**. Here’s how it works:
 		-
