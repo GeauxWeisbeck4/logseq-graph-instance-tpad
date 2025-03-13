@@ -12,4 +12,5 @@ page-id:: GEAUX-NOTES-04.02-TEMPLATES-01.00.00.01
 navigation:: [[Digital Garden Home]] | [[Notes Catalog]] | [[Geaux Flow]] | [[Journals]] | [[Content]]
 nav-level-up:: <- [[Templates Home Page]]
 nav-next-subtopic:: [[Notes Home Page Template]] ->
-nav-level-down
+nav-level-down:: [[Notes Subtopics]] ->
+-
