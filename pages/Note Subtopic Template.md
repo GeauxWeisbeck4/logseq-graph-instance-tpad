@@ -9,4 +9,4 @@ template:: note-subtopic-template
 - description:: The template for a note sub-topic home page that contains notes under that subtopic.
 - alias:: Note Subtopic Home Template
 - date-created::  [[Mar 13th, 2025]] *16:38*
-- page-id:
+- page-id:: GEAUX-NOTES-04.01-SUBTOPIC-01.00.00.
