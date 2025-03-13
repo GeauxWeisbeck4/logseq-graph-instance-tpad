@@ -13,4 +13,5 @@ navigation:: [[Digital Garden Home]] | [[Notes Catalog]] | [[Geaux Flow]] | [[Jo
 nav-level-up:: <- [[Templates Home Page]]
 nav-next-subtopic:: [[Notes Home Page Template]] ->
 nav-level-down:: [[Notes Subtopics]] ->
--
+	- #  Home Page
+		-
