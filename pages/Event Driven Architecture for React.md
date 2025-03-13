@@ -11,7 +11,5 @@ description:: How we can create an event driven architecture for React, from a p
 nav-level-up:: <- [[React Notes]] 
 nav-next-note:: ->
 
-	- # <%title%>
-		- description
-	- # title TOC
-		- ## Introduction
+- # Event Driven Architecture for React
+	- How we can create an event driven architecture for React, from a post on Dev.to
