@@ -7,4 +7,6 @@ template:: note-subtopic-template
 - note-topic:: Subtopic
 - page-type:: Note Subtopic Home, Note, Notes Catalog
 - description:: The template for a note sub-topic home page that contains notes under that subtopic.
-- alias: Note Sub
+- alias:: Note Subtopic Home Template
+- date-created::  [[Mar 13th, 2025]] *16:38*
+- page-id:
