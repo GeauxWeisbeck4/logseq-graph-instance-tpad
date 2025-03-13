@@ -33,4 +33,13 @@ nav-next-note:: ->
 	- ## The Solution: Enter the Event-Driven Approach
 		- ![Event lifecycle](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fakspkpcn7xme6t9ymjsw.png)
 		- Instead of relying on direct callbacks to communicate up the tree, **_an event-driven architecture decouples components and centralizes communication_**. Here’s how it works:
-		-
+		- #### Event Dispatching
+			- When **SubChildren N** triggers an event (e.g., onMyEvent), it doesn’t directly call a callback in the Parent.
+			- Instead, _it dispatches an event that is handled by a centralized Events Handler_.
+		- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#centralized-handling)Centralized Handling
+			- The **Events Handler** listens for the dispatched event and processes it.
+			- It can notify the Parent (or any other interested component) or trigger additional actions as required.
+		- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#props-remain-downward)Props Remain Downward
+			- Props are still passed down the hierarchy, ensuring that components receive the data they need to function.
+			- > This can be solved with centralized state management tools like zustand, redux, but will not be covered in this article.
+	-
