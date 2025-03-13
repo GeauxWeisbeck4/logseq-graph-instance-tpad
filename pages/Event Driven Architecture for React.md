@@ -20,4 +20,5 @@ nav-next-note:: ->
 	- > Note: This mechanism is not intended as a replacement for a global state management system but an alternative approach to component communication flow.
 	- ## The Problem: Prop Drilling and Callback Chains
 		- In modern application development, managing state and communication between components can quickly become cumbersome. This is especially true in scenarios involving **props drilling**—where data must be passed down through multiple levels of nested components—and **callback chains**, which can lead to tangled logic and make code harder to maintain or debug.
+		- These challenges often create tightly coupled components, reduce flexibility, and increase the cognitive load for developers trying to trace how data flows through the application. Without a better approach, this complexity can significantly slow down development and lead to a **brittle codebase**.
 		-
