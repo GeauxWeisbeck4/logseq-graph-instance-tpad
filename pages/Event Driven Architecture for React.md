@@ -7,12 +7,11 @@ note-subcategories:: JavaScript, JavaScript Frameworks
 note-topic:: React
 note-level:: 3, Note 
 page-id:: GEAUX-NOTES-01.01--01.01.01.01
+description:: How we can create an event driven architecture for React, from a post on Dev.to
+nav-level-up:: <- [[React Notes]] 
+nav-next-note:: ->
 
-description:: The template for a new note.
-nav-level-up:: <- [[Templates Home Page]]
-nav-next-subtopic:: [[Notes Category Home Page Template]]
-
-	- # title
+	- # <%title%>
 		- description
 	- # title TOC
 		- ## Introduction
