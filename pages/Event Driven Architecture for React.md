@@ -129,3 +129,61 @@ nav-next-note:: ->
 			- Ok cool but, what about a
 	- ## [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#real-world-example)Real World Example?
 		- Check out this StackBlitz (_if it does not load, please check it [here](https://stackblitz.com/edit/event-drive-arch?file=src%2FApp.tsx)_)
+-
+- This simple example showcases the purpose of the `useEvent` hook, basically the body's button is dispatching an event that is intercepted from Sidebar, Header and Footer components, that updates accordingly.
+- This let us define cause/effect reactions without the need to propagate a callback to many components.
+- **Note**
+- As pointed out in the comments remember to memoize the callback function using `useCallback` in order to avoid continous event removal and creation, as the callback itself will be a dependency of the `useEvent` internal useEffect.
+- ---
+- ## [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#realworld-use-cases-for-raw-useevent-endraw-)Real-World Use Cases for `useEvent`
+	- Here are some **real-world use cases** where the `useEvent` hook can simplify communication and decouple components in a React application:
+	- ---
+	- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#1-notifications-system)1. Notifications System
+		- A notification system often requires global communication.
+			- **Scenario**:
+				- When an API call succeeds, a "success" notification needs to be displayed across the app.
+				- Components like a "Notifications Badge" in the header need to update as well.
+			- **Solution**: Use the `useEvent` hook to dispatch an `onNotification` event with the notification details. Components like the `NotificationBanner` and `Header` can listen to this event and update independently.
+	- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#2-theme-switching)2. Theme Switching
+		- When a user toggles the theme (e.g., light/dark mode), multiple components may need to respond.
+			- **Scenario**:
+				- A `ThemeToggle` component dispatches a custom `onThemeChange` event.
+				- Components like the Sidebar and Header listen for this event and update their styles accordingly.
+			- **Benefits**: No need to pass the theme state or callback functions through props across the entire component tree.
+	- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#3-global-key-bindings)3. Global Key Bindings
+		- Implement global shortcuts, such as pressing "Ctrl+S" to save a draft or "Escape" to close a modal.
+			- **Scenario**:
+				- A global keydown listener dispatches an `onShortcutPressed` event with the pressed key details.
+				- Modal components or other UI elements respond to specific shortcuts without relying on parent components to forward the key event.
+	- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#4-realtime-updates)4. Real-Time Updates
+		- Applications like chat apps or live dashboards require multiple components to react to real-time updates.
+			- **Scenario**:
+				- A WebSocket connection dispatches `onNewMessage` or `onDataUpdate` events when new data arrives.
+				- Components such as a chat window, notifications, and unread message counters can independently handle updates.
+	- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#5-form-validation-across-components)5. Form Validation Across Components
+		- For complex forms with multiple sections, validation events can be centralized.
+			- **Scenario**:
+				- A form component dispatches `onFormValidate` events as users fill out fields.
+				- A summary component listens for these events to display validation errors without tightly coupling with form logic.
+	- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#6-analytics-tracking)6. Analytics Tracking
+		- Track user interactions (e.g., button clicks, navigation events) and send them to an analytics service.
+			- **Scenario**:
+				- Dispatch `onUserInteraction` events with relevant details (e.g., the clicked button’s label).
+				- A central analytics handler listens for these events and sends them to an analytics API.
+	- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#7-collaboration-tools)7. Collaboration Tools
+		- For collaborative tools like shared whiteboards or document editors, events can manage multi-user interactions.
+			- **Scenario**:
+				- Dispatch `onUserAction` events whenever a user draws, types, or moves an object.
+				- Other clients and UI components listen for these events to reflect the changes in real time.
+		- By leveraging the `useEvent` hook in these scenarios, you can create **modular, maintainable, and scalable applications** without relying on deeply nested props or callback chains.
+		- ---
+- ## [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#conclusions)Conclusions
+	- Events can transform the way you build React applications by reducing complexity and improving modularity. Start small—identify a few components in your app that would benefit from decoupled communication and implement the useEvent hook.
+	- With this approach, you’ll not only simplify your code but also make it easier to maintain and scale in the future.
+	- **Why Use Events?**
+	- Events shine when you need your components to react to something that happened elsewhere in your application, without introducing unnecessary dependencies or convoluted callback chains. This approach reduces the cognitive load and avoids the pitfalls of tightly coupling components.
+	- **My Recommendation**
+	- Use events for inter-component communication—when one component needs to notify others about an action or state change, regardless of their location in the component tree.
+	- Avoid using events for intra-component communication, especially for components that are closely related or directly connected. For these scenarios, rely on React's built-in mechanisms like props, state, or context.
+	- **A Balanced Approach**
+	- While events are powerful, overusing them can lead to chaos. Use them judiciously to simplify communication across loosely connected components, but don’t let them replace React’s standard tools for managing local interactions.
