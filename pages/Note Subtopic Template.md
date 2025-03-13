@@ -1,4 +1,5 @@
 ## Note Subtopic Home Page
+
 tags:: digital-garden, notes-catalog, template
 notes-category:: Productivity
 notes-subcategory:: Digital Gardens
@@ -17,4 +18,5 @@ nav-level-down:: [[Notes Subtopics]] ->
 		- <%description%>
 	- # <%note-topic%> Related Notes TOC
 		- ## <%nav-level-down%>
+-
 -
