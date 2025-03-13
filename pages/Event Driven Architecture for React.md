@@ -42,4 +42,90 @@ nav-next-note:: ->
 		- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#props-remain-downward)Props Remain Downward
 			- Props are still passed down the hierarchy, ensuring that components receive the data they need to function.
 			- > This can be solved with centralized state management tools like zustand, redux, but will not be covered in this article.
-	-
+	- ## Implementation
+		- But, _how do we implement this architecture?_
+		- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#useevent-hook)useEvent hook
+			- Let's create a custom hook called **useEvent**, this hook will be responsible of handling event subscription and returning a dispatch function to trigger the target event.
+			- As I am using typescript, I need to extend the window `Event` interface in order to create custom events:
+			- ```
+			  interface AppEvent<PayloadType = unknown> extends Event {
+			    detail: PayloadType;
+			  }
+			  export const useEvent = <PayloadType = unknown>(
+			    eventName: keyof CustomWindowEventMap,
+			    callback?: Dispatch<PayloadType> | VoidFunction
+			  ) => {
+			    ...
+			  };
+			  ```
+			- By doing so, we can define custom events map and pass custom parameters:
+			- ```
+			  interface AppEvent<PayloadType = unknown> extends Event {
+			    detail: PayloadType;
+			  }
+			  export interface CustomWindowEventMap extends WindowEventMap {
+			    /* Custom Event */
+			    onMyEvent: AppEvent<string>; // an event with a string payload
+			  }
+			  export const useEvent = <PayloadType = unknown>(
+			    eventName: keyof CustomWindowEventMap,
+			    callback?: Dispatch<PayloadType> | VoidFunction
+			  ) => {
+			    ...
+			  };
+			  ```
+			- Now that we defined needed interfaces, let's see the final hook code
+			- ```
+			  import { useCallback, useEffect, type Dispatch } from "react";
+			  interface AppEvent<PayloadType = unknown> extends Event {
+			    detail: PayloadType;
+			  }
+			  export interface CustomWindowEventMap extends WindowEventMap {
+			    /* Custom Event */
+			    onMyEvent: AppEvent<string>;
+			  }
+			  export const useEvent = <PayloadType = unknown>(
+			    eventName: keyof CustomWindowEventMap,
+			    callback?: Dispatch<PayloadType> | VoidFunction
+			  ) => {
+			    useEffect(() => {
+			      if (!callback) {
+			        return;
+			      }
+			      const listener = ((event: AppEvent<PayloadType>) => {
+			        callback(event.detail); // Use `event.detail` for custom payloads
+			      }) as EventListener;
+			      window.addEventListener(eventName, listener);
+			      return () => {
+			        window.removeEventListener(eventName, listener);
+			      };
+			    }, [callback, eventName]);
+			    const dispatch = useCallback(
+			      (detail: PayloadType) => {
+			        const event = new CustomEvent(eventName, { detail });
+			        window.dispatchEvent(event);
+			      },
+			      [eventName]
+			    );
+			    // Return a function to dispatch the event
+			    return { dispatch };
+			  };
+			  ```
+			- The `useEvent` hook is a custom React hook for subscribing to and dispatching custom window events. It allows you to listen for custom events and trigger them with a specific payload.
+			- What we are doing here is pretty simple, we are using the standard event management system and extending it in order to accommodate our custom events.
+		- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#parameters)Parameters:
+			- `eventName` (string): The name of the event to listen for.
+			- `callback` (optional): A function to call when the event is triggered, receiving the payload as an argument.
+		- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#features)Features:
+			- **Event Listener**: It listens for the specified event and calls the provided `callback` with the event's `detail` (custom payload).
+			- **Dispatching Events**: The hook provides a `dispatch` function to trigger the event with a custom payload.
+		- #### [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#example)Example:
+			- ```
+			  const { dispatch } = useEvent("onMyEvent", (data) => console.log(data));
+			  // To dispatch an event
+			  dispatch("Hello, World!");
+			  // when dispatched, the event will trigger the callback
+			  ```
+			- Ok cool but, what about a
+	- ## [](https://dev.to/nicolalc/event-driven-architecture-for-clean-react-component-communication-fph?ref=dailydev#real-world-example)Real World Example?
+		- Check out this StackBlitz (_if it does not load, please check it [here](https://stackblitz.com/edit/event-drive-arch?file=src%2FApp.tsx)_)
