@@ -11,4 +11,5 @@ template:: note-subtopic-template
 - date-created::  [[Mar 13th, 2025]] *16:38*
 - page-id:: GEAUX-NOTES-04.02-SUBTOPIC-01.00.00.01
 - nav-level-up:: <- [[Digital Garden Templates]]
-- nav-next-subtopic
+- nav-next-subtopic:: [[Notes Home Page Template]] ->
+-
