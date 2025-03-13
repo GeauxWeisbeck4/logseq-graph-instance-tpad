@@ -9,4 +9,6 @@ note-level:: 3, Note
 page-id:: GEAUX-NOTES-04.02-TEMPLATES-01.00.00.02
 alias:: Note Page Template
 nav-level-up:: <- [[Templates Home Page]]
-nav-next-subtopic
+nav-next-subtopic:: [[Notes Category Home Page Template]]
+	- # <%title%>
+		- <%
