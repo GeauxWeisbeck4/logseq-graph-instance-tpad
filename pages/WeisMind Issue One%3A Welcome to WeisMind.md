@@ -22,5 +22,6 @@ tags:: weismind, newsletter
 	- That's as abstract as I'll get today and there's much more to say on that, but you also should know that I am not just a mere failure who wanders around telling people to listen to me because I've been really good at sucking. I'll toot my horn a bit and share some things that I'm good at or things that people have told me I'm good at:
 		- I'm extremely empathetic and caring, but can also be the opposite when I need to be.
 		- I'm optimistic, gregarious, and love to chat people to death if they come within earshot of me and discussing something I'm passionate about.
-		- I'm creative, love learning, and am a problem solver - if there's not problem to be solved,
+		- I'm creative, love learning, and am a problem solver. This makes  Full-Stack Software Development the perfect career choice for me, but I am a renaissance man who will learn about anything and everything if need be.
+		-
 -
