@@ -26,5 +26,5 @@ tags:: weismind, newsletter
 		- The one thing that I believe really separates me from others is my grit - once you hear more of my story, you will understand what I'm talking about.
 	- There's more but that is enough for now to hopefully show you that my words are worth your time - hopefully. The last thing I want to share before the end of this first issue is the game plan moving forward, aka, why you should subscribe to WeisMind or how this publication can be useful to you.
 	- ### Encouragement, Humor, Positivity, Mindfulness
-		- Never take yourself too seriously. That is the bes tadvice
+		- Never take yourself too seriously. That is the best advice I've ever been given and the best advice I can pass on. See, we all are way too hard on ourselves and/or on others. Taking things too seriously is a recipe for misery and there are some
 -
