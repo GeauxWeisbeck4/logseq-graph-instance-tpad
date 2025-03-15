@@ -21,5 +21,6 @@ tags:: weismind, newsletter
 	- What can you learn from someone like me? It turns out there is a whole lot you can learn from me in a time like this. You probably think I'm being cheeky, speaking in riddles, or boasting about how special I am, but I really am trying to get you to see a theme in my message here. *No matter who you are, what you've done, or where you are in your life, you are important and have the ability to be free if you want to be.* Everything in life is a mindset, a perspective, the way you perceive things. Once you understand this, you can control your own reality.
 	- That's as abstract as I'll get today and there's much more to say on that, but you also should know that I am not just a mere failure who wanders around telling people to listen to me because I've been really good at sucking. I'll toot my horn a bit and share some things that I'm good at or things that people have told me I'm good at:
 		- I'm extremely empathetic and caring, but can also be the opposite when I need to be.
-		- I'm optimistic, gregarious, and love to talk people to death if they come within earshot of one of
+		- I'm optimistic, gregarious, and love to chat people to death if they come within earshot of me and discussing something I'm passionate about.
+		- I'm creative, love
 -
