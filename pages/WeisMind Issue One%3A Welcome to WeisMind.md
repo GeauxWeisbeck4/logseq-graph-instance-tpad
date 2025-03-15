@@ -24,5 +24,5 @@ tags:: weismind, newsletter
 		- I'm optimistic, gregarious, and love to chat people to death if they come within earshot of me and discussing something I'm passionate about.
 		- I'm creative, love learning, and am a problem solver. This makes  Full-Stack Software Development the perfect career choice for me, but I am a renaissance man who will learn about anything and everything if need be.
 		- The one thing that I believe really separates me from others is my grit - once you hear more of my story, you will understand what I'm talking about.
-	- There's more but that is enough for now
+	- There's more but that is enough for now to hopefully show you that my words are worth your time - hopefully.
 -
