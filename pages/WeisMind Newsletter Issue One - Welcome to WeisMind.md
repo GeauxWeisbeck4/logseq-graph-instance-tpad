@@ -21,4 +21,6 @@ tags:: weismind, newsletter
 		- The non-technical person guide to AI and why you shouldn't fear it, but understand how you can combat the way it is being weaponized
 		- Open source guide to cutting off social media run by billionaires and other apps to not put money in the pockets of the bad guy
 			- You will see why this is a very helpful guide in more ways than just one and I am personally super excited about this
+		- Using mindfulness to combat fear and anxiety
+		- Changing your perspective will change your reality
 		-
