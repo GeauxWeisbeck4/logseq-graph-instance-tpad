@@ -19,4 +19,6 @@ tags:: weismind, newsletter
 		- First of all, I feel like I can really empathize with most anyone and understand a wide range of perspectives. Too many people get caught up with their own beliefs or think only way on an issue and this creates problems when you need do something like, I don't know compromise or work together with somebody else. Second, I think understanding the bigger picture and how it correlates to many different things is important in terms of problem solving, helping others learn, and even can help you be happier. I'll have more to say on this in the future.
 	- I don't have a specific expectation for this newsletter or necessarily a structure that I think it needs to follow - that will take shape over time by feedback I receive from others and by the needs of my audience. But I do know that there will be some important topics that I will have detailed guides on. Here are some of those topics that you can look forward to:
 		- The non-technical person guide to AI and why you shouldn't fear it, but understand how you can combat the way it is being weaponized
-		- Open source gu
+		- Open source guide to cutting off social media run by billionaires and other apps to not put money in the pockets of the bad guy
+			- You will see why this is a very helpful guide in more ways than just one and I am personally super excited about this
+		-
