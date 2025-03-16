@@ -15,4 +15,4 @@ tags:: weismind, newsletter
 	- ### Storytelling that is entertaining, motivating, and teaches you something
 		- Not to toot my own horn, but people have told me that I am a good storyteller. I've also studied the art of storytelling and is something I find fascinating. I won't claim I'm nearly as good as some of the best known writers out there, but I think I can write fairly well and tell a story in a way that makes you want to keep reading. So just like any of your other regularly read publications, I think this newsletter will provide elements of all those things we look for in newsletters, blogs, and other forms of content that we enjoy.
 	- ### The knowledge I have to share will help you out and I will share it in a way everybody can understand
-	-
+		-
