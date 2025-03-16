@@ -23,4 +23,5 @@ tags:: weismind, newsletter
 			- You will see why this is a very helpful guide in more ways than just one and I am personally super excited about this
 		- Using mindfulness to combat fear and anxiety
 		- Changing your perspective will change your reality
-		-
+		- History, political, psychological, and economic lessons to help you navigate what's happening
+		- Anything else that will help sharpen your mind,
