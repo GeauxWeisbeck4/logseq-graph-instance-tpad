@@ -25,4 +25,4 @@ tags:: weismind, newsletter
 		- Changing your perspective will change your reality
 		- History, political, psychological, and economic lessons to help you navigate what's happening
 		- Anything else that will help sharpen your mind, help you live happier, and build a better future for everyone
-	- I can't wait to get started writing this newsletter as I have
+	- I can't wait to get started writing this newsletter as I have really wanted to create something useful that people would enjoy reading. That being said, please share any feedback you may have because I take everything you say seriously and use it to make what I write better
