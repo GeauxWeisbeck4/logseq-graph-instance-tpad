@@ -6,4 +6,6 @@ tags:: math, programming, no-starch-press, books
 - chapter:: Chapter One
 - chapter-name:: Computers and Numbers
 - # Table of Contents
-	-
+	- ## Numbers and Number Bases
+		- As humans, most things are in base 10
+		-
