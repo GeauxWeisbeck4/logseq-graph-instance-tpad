@@ -2,4 +2,7 @@ tags:: roadmap.sh, course, data-structures, algorithms, dsa, programming, comput
 
 - title:: Intermediate Data Structures and Algorithms Course
 - alias:: Roadmap.sh DSA Course
-- # Intermediate
+- # Intermediate Data Structures and Algorithms Course
+- # TOC
+	- # [[Part One - Algorithm Analysis and Design Paradigms]]
+		-
