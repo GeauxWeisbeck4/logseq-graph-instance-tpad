@@ -8,6 +8,7 @@ tags:: math, programming, no-starch-press, books
 - # Table of Contents
 	- ## Numbers and Number Bases
 		- As humans, most things are in base 10
-		-
+		- ### *Binary, Octal, and Hexadecimal Numbers*
+			-
 -
 -
