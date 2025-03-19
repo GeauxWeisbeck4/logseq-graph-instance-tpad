@@ -14,4 +14,6 @@ tags:: math, programming, no-starch-press, books
 				- 1011(base2) = $2^3+2^1+2^0$
 				- = 8 + 2 + 1
 				- = 11
-			-
+			- How Python works with Binarys
+				- ```
+				  ```
