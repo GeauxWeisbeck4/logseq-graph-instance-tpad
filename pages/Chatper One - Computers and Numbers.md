@@ -11,6 +11,7 @@ tags:: math, programming, no-starch-press, books
 		- ### *Binary, Octal, and Hexadecimal Numbers*
 			- **Binary** or Base-2
 				- We have [0, 1] for the number of digits we tally for reading the base
-				- 1011
+				- 1011 = $2^3+2^1+2^0$
+				- = 8 + 2 + 1
 -
 -
