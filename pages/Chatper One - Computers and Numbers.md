@@ -16,4 +16,16 @@ tags:: math, programming, no-starch-press, books
 				- = 11
 			- How Python works with Binarys
 				- ```
+				  >>> 0b10100101
+				  
+				  165
+				  
+				  >>> bin(11)
+				  
+				  '0b1011'
+				  
+				  >>> "{0:b}".format(8675309)
+				  
+				  '100001000101111111101101'
 				  ```
+-
