@@ -7,8 +7,11 @@ tags:: weismind, company, brand, company-home
 - brand:: WeisMind Creative
 - children:: [[WeisMind Newsletter]], [[WeisMind Podcast]], [[WeisMind Website]], [[WeisMind Products]]
 - # WeisMind Creative Studio
+  id:: 67dd8ae2-86a6-43ba-8a25-fe3e72a66739
 	- WeisMind is my personal brand for content, creative stuff, the podcast, and much much more. It is my personal brand that is not completely affiliated with programming/my career in the sense that it is more flexible than something like [[Geaux Code]] or [[Tar Heel Dev Studio]]. It is a new start and it is exciting!
-- # WeisMind Creative Table of Contents
+- # [[WeisMind Creative Studio| WeisMind Table of Contents]]
+	-
+	-
 	- #
 - ## History
   id:: 67dd8b33-0d2a-4da2-a855-873981bd7a50
