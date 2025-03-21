@@ -65,15 +65,6 @@
   contenttype:: `text/html`
   images:: `https://assets.content.technologyadvice.com/wonderhowto_3840x1800_7eb03804cf.webp`
   favicons:: `https://assets.content.technologyadvice.com/wonderhowto_favicon_920b4b43ef.webp`
-- https://www.reddit.com/r/Championship/.rss?format=xml
-  url:: `https://www.reddit.com/?rdt=55835`
-  title:: `reddit`
-  sitename:: `Reddit`
-  description:: `Reddit is a network of communities where people can dive into their interests, hobbies and passions. There's a community for whatever you're interested in on Reddit.`
-  mediatype:: `website`
-  contenttype:: `text/html`
-  images:: `https://www.redditstatic.com/shreddit/assets/favicon/192x192.png`
-  favicons:: `https://www.redditstatic.com/shreddit/assets/favicon/76x76.png`
 - https://www.goal.com/feeds/en/news
   url:: `https://www.goal.com/en-us`
   title:: `Soccer News, Live Scores, Results & Transfers | Goal.com US`
@@ -106,12 +97,6 @@
   images:: `http://phdcomics.com/comics/archive/phd011525s.gif`
   favicons:: `https://phdcomics.com/favicon.ico`
   	PHD Comics: NEW BOOK! Out of Your Mind!`
-- http://feeds.feedburner.com/failblog
-  url:: `http://feeds.feedburner.com/`
-  title:: `Error 404 (Not Found)!!1`
-  mediatype:: `website`
-  contenttype:: `text/html`
-  favicons:: `http://feeds.feedburner.com/favicon.ico`
 - https://xkcd.com/rss.xml
   url:: `https://xkcd.com/`
   title:: `Square Units`
@@ -179,9 +164,3 @@
   contenttype:: `text/html`
   images:: `https://feeds.megaphone.fm/images/logo.png`
   favicons:: `https://feeds.megaphone.fm/favicon.ico`
-- https://feeds.feedburner.com/dancarlin/history?format=xml
-  url:: `https://feeds.feedburner.com/`
-  title:: `Error 403 (Forbidden)!!1`
-  mediatype:: `website`
-  contenttype:: `text/html`
-  favicons:: `https://feeds.feedburner.com/favicon.ico`
