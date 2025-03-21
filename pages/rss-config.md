@@ -74,3 +74,35 @@
   contenttype:: `text/html`
   images:: `https://www.redditstatic.com/shreddit/assets/favicon/192x192.png`
   favicons:: `https://www.redditstatic.com/shreddit/assets/favicon/76x76.png`
+- https://www.goal.com/feeds/en/news
+  url:: `https://www.goal.com/en-us`
+  title:: `Soccer News, Live Scores, Results & Transfers | Goal.com US`
+  description:: `The latest soccer news, live scores, results, rumors, transfers, fixtures, tables and player profiles from around the world, including Major League Soccer.`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://assets.goal.com/images/v3/blt66552e98539d0ab4`
+  favicons:: `https://www.goal.com/favicon.ico`
+- https://awkwardfamilyphotos.com/feed/
+  url:: `https://awkwardfamilyphotos.com/`
+  title:: `AwkwardFamilyPhotos.com`
+  sitename:: `AwkwardFamilyPhotos.com`
+  description:: `Spreading the Awkwardness`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://s3.awkwardfamilyphotos.com/wp-content/uploads/2017/05/22134532/afp-logo-square.jpg`
+  favicons:: `https://awkwardfamilyphotos.com/wp-content/themes/awkward-family-photos/images/favicon-32x32.png`
+- http://feeds.feedburner.com/CrackedRSS
+  url:: `http://feeds.feedburner.com/`
+  title:: `Error 404 (Not Found)!!1`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  favicons:: `http://feeds.feedburner.com/favicon.ico`
+- http://phdcomics.com/gradfeed.php
+  url:: `https://phdcomics.com/`
+  title:: `
+  description:: `Link to Piled Higher and Deeper`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `http://phdcomics.com/comics/archive/phd011525s.gif`
+  favicons:: `https://phdcomics.com/favicon.ico`
+  	PHD Comics: NEW BOOK! Out of Your Mind!`
