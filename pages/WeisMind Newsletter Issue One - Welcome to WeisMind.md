@@ -6,10 +6,12 @@ tags:: weismind, newsletter
 - platform:: Substack
 - Brand:: [[WeisMind Creative]]
 - type:: Newsletter
-- date:: 2025-03-21
+- date:: [[Mar 21st, 2025]]
 - volume:: 1
 - issue:: 1
 - phase:: draft
+- pubDate:: [[Mar 21st, 2025]] *11:45 AM*
+- lastEdit:: [[Mar 21st, 2025]] *11:45 AM*
 -
 - ## Intro
 	- I've wanted to write this newsletter for a really long time, but it has been a challenge. I had an idea of what I wanted it to be, and for a while, I thought I was just too scared to write it (and I was), but the real truth came to me today. It's not just that I WAS scared to write this, I knew that I had nothing to offer, nothing to important to say really. I didn't know what to write because I had to think about it, mold it to something that sounded like something other people want to hear, and I could never complete the process of sitting down and writing this. It's been about two years of this, ever since I decided I wanted to write my personal newsletter.
