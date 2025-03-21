@@ -5,5 +5,7 @@ tags:: weismind, company, brand, company-home
 - date:: [[Mar 21st, 2025]] *11:45 AM*
 - alias:: WeisMind Creative Studio, WeisMind, #weismind
 - brand:: WeisMind Creative
-- children:: [[WeisMind Newsletter]]
+- children:: [[WeisMind Newsletter]], [[WeisMind Podcast]], [[WeisMind Website]], [[WeisMind Products]]
+- # WeisMind Creative Studio
+	- WeisMind is my personal brand for content, creative stuff, the podcast, and much much more. It is my personal brand that is not completely affiliated with programming/my career in the sense that it
 -
