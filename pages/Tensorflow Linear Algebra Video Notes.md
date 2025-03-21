@@ -15,6 +15,7 @@ tags:: linear-algebra, ml-math, tensorflow
 							- ![image.png](../assets/image_1742561242587_0.png)
 					- ## Examples
 						- ![image.png](../assets/image_1742561322902_0.png)
+						- ![image.png](../assets/image_1742561376276_0.png)
 						-
 		- ### Vector Embeddings
 		- ### Dimensionality Reduction
