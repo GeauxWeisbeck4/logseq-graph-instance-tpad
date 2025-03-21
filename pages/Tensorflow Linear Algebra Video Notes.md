@@ -13,6 +13,8 @@ tags:: linear-algebra, ml-math, tensorflow
 					- #### In ML
 						- Feature vector is a vector that represents features of an object
 							- ![image.png](../assets/image_1742561242587_0.png)
+					- ## Examples
+						- ![image.png](../assets/image_1742561322902_0.png)
 						-
 		- ### Vector Embeddings
 		- ### Dimensionality Reduction
