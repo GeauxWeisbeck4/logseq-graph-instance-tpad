@@ -159,3 +159,29 @@
   contenttype:: `text/html`
   images:: `https://platform.polygon.com/wp-content/uploads/sites/2/2024/08/polygon-siteicon-article_1e63d1.png`
   favicons:: `https://www.polygon.com/static-assets/icons/favicon-32x32.png`
+- https://toucharcade.com/community/forums/-/index.rss
+  url:: `https://toucharcade.com/`
+  title:: `TouchArcade – iPhone and iPad Games`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://toucharcade.com/styles/toucharcade/toucharcade/logo.png`
+  favicons:: `https://toucharcade.com/styles/toucharcade/toucharcade/favicon/favicon-196x196.png`
+- http://feeds.feedburner.com/psblog
+  url:: `http://feeds.feedburner.com/`
+  title:: `Error 404 (Not Found)!!1`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  favicons:: `http://feeds.feedburner.com/favicon.ico`
+- https://feeds.megaphone.fm/ESP5765452710
+  url:: `https://feeds.megaphone.fm/`
+  title:: `Megaphone`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://feeds.megaphone.fm/images/logo.png`
+  favicons:: `https://feeds.megaphone.fm/favicon.ico`
+- https://feeds.feedburner.com/dancarlin/history?format=xml
+  url:: `https://feeds.feedburner.com/`
+  title:: `Error 403 (Forbidden)!!1`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  favicons:: `https://feeds.feedburner.com/favicon.ico`
