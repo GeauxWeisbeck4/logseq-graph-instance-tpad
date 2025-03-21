@@ -1,5 +1,7 @@
 tags:: data-structures, algorithms, bubble-sort, sorting-algorithms
 
+- category:: [[Data Structures and Algorithms]]
+  algorithm-
 - Bubble sort goes through each array and takes an element, compares it to the next and switches them if it is less then the next element
 - https://excalidraw.com/#json=BNQ95D0qS-u3XOoTy4Zjy,o2rJESYbYjUay8Xc8S_4ZQ
 - # Bubble Sort Diagram
