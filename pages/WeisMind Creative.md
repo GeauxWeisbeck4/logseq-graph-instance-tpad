@@ -9,5 +9,5 @@ tags:: weismind, company, brand, company-home
 - # WeisMind Creative Studio
 	- WeisMind is my personal brand for content, creative stuff, the podcast, and much much more. It is my personal brand that is not completely affiliated with programming/my career in the sense that it is more flexible than something like [[Geaux Code]] or [[Tar Heel Dev Studio]]. It is a new start and it is exciting!
 - ## History
-	- WeisMind originally started out as my consulting business way back in 2017, but eventually took on new shapes and sizes. It was the name of Lisa and I's podcast, the [[WeisMind Podcast]], an awesome program that we intend on bringing back soon. A
+	- WeisMind originally started out as my consulting business way back in 2017, but eventually took on new shapes and sizes. It was the name of Lisa and I's podcast, the [[WeisMind Podcast]], an awesome program that we intend on bringing back soon. A lot went on in our life at the time we were working on it, things like - losing our housing, me losing a job, COVID shit, and a lot of other shit I won't even start to get into. I've been trying to revive the brand for a few years now, to no avail
 -
