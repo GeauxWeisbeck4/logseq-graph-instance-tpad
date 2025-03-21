@@ -16,5 +16,5 @@ tags:: weismind, newsletter
 	- If you are more confused right now than you were before you read this issue, than I think we are on the right track. Honestly, writing this first issue has been so fucking challenging because WeisMind is one of those "you got to see it first to know what I'm talking about" kind of things. As Rust Cohle from True Detective would say:
 	- > WeisMind Newsletter is a flat circle. Everything I'm going to tell you that has happened, has already happened - in fact, it's happening right now as you read this.  And it will continue to happen again, and again, and again, and again... forever through all of time. And time - time is something we can't even begin to understand.
 	- ## In the Next Issue of WeisMind
-	- We pick up at on
+	- We pick up at one of the darkest days of Andrew's life... well, what he thought was one of the darkest days of his life. Little did he know, this was just the tip of the iceberg for what was coming ahead.
 -
