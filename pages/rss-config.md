@@ -41,3 +41,36 @@
   contenttype:: `text/html`
   images:: `https://assets.doityourself.com/images/diylogo.svg`
   favicons:: `https://assets.doityourself.com/favicon-32x32.png`
+- https://www.howtogeek.com/feed/
+  url:: `https://www.howtogeek.com/`
+  title:: `How-To Geek - We Explain Technology`
+  sitename:: `How-To Geek`
+  description:: `We explain technology. Learn more with our articles, reviews, tips, and the best answers to your most pressing tech questions.`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://static1.howtogeekimages.com/wordpress/wp-content/uploads/social/htg-og-img.png`
+  favicons:: `https://www.howtogeek.com/public/build/images/favicon-48x48.8192bda8.png`
+- https://blog.etsy.com/en/feed/
+  url:: `https://www.etsy.com/blog`
+  title:: `etsy.com`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  favicons:: `https://www.etsy.com/favicon.ico`
+- https://www.wonderhowto.com/rss.xml
+  url:: `https://www.wonderhowto.com/`
+  title:: `Wonder How To » Fresh Hacks For a Changing World`
+  sitename:: `WonderHowTo`
+  description:: `Wonder How To is your guide to free how to videos on the Web. Search, Browse and Discover the best how to videos across the web using the largest how to video index on the web. Watch the best online video instructions, tutorials, &amp; How-Tos for free. Have your own how to videos? Submit them to share with the world.`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://assets.content.technologyadvice.com/wonderhowto_3840x1800_7eb03804cf.webp`
+  favicons:: `https://assets.content.technologyadvice.com/wonderhowto_favicon_920b4b43ef.webp`
+- https://www.reddit.com/r/Championship/.rss?format=xml
+  url:: `https://www.reddit.com/?rdt=55835`
+  title:: `reddit`
+  sitename:: `Reddit`
+  description:: `Reddit is a network of communities where people can dive into their interests, hobbies and passions. There's a community for whatever you're interested in on Reddit.`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://www.redditstatic.com/shreddit/assets/favicon/192x192.png`
+  favicons:: `https://www.redditstatic.com/shreddit/assets/favicon/76x76.png`
