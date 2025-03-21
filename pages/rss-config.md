@@ -106,3 +106,32 @@
   images:: `http://phdcomics.com/comics/archive/phd011525s.gif`
   favicons:: `https://phdcomics.com/favicon.ico`
   	PHD Comics: NEW BOOK! Out of Your Mind!`
+- http://feeds.feedburner.com/failblog
+  url:: `http://feeds.feedburner.com/`
+  title:: `Error 404 (Not Found)!!1`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  favicons:: `http://feeds.feedburner.com/favicon.ico`
+- https://xkcd.com/rss.xml
+  url:: `https://xkcd.com/`
+  title:: `Square Units`
+  sitename:: `xkcd`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://imgs.xkcd.com/comics/square_units_2x.png`
+  favicons:: `https://xkcd.com/s/919f27.ico`
+- https://www.gamespot.com/feeds/mashup/
+  url:: `https://www.gamespot.com/`
+  title:: `Video Games Reviews & News - GameSpot`
+  sitename:: `GameSpot`
+  description:: `GameSpot delivers the best and most comprehensive video game and entertainment coverage, including news, reviews, trailers, walkthroughs, and guides for PS4, Xbox One, Nintendo Switch, PC, and Google Stadia.`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://www.gamespot.com/a/bundles/gamespotsite/images/logo.png`
+  favicons:: `https://www.gamespot.com/a/bundles/gamespotsite/images/favicon.ico`
+- http://feeds.ign.com/ign/all
+  url:: `http://feeds.ign.com/`
+  title:: `501 Origin hit suppressed (0)`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  favicons:: `http://feeds.ign.com/favicon.ico`
