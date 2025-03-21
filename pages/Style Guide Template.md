@@ -48,7 +48,6 @@ template:: Style Guide
 		- This is a {{cloze cloze}}
 		-
 		- This is a flashcard #card
-		  collapsed:: true
 			- And this is the answer
 	-
 	-

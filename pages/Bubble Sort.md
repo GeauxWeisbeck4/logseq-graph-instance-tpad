@@ -18,7 +18,6 @@ tags:: data-structures, algorithms, bubble-sort, sorting-algorithms
 	              break
 	      return arr
 	  
-	  # To make sure it works, print the following:
-	  # print(bubble_sort([2, 4, 7, 9, 1, 3, 5]))
+	  print(bubble_sort([2, 4, 7, 9, 1, 3, 5]))
 	  ```
 	-
