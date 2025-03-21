@@ -9,7 +9,10 @@ tags:: linear-algebra, ml-math, tensorflow
 				- Organize info into a vector
 					- One dimensional array of numbers that has magnitude and direction
 					- Totality of vectors with n-entries is an n-dimensional vector space
-						- 3 Dimensional space is a 3
+						- 3 Dimensional space is a vector with three entries
+					- #### In ML
+						- Feature vector is a vector that represents features of an object
+						-
 		- ### Vector Embeddings
 		- ### Dimensionality Reduction
 		-
