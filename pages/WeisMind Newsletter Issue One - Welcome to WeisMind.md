@@ -18,3 +18,5 @@ tags:: weismind, newsletter
 	- ## In the Next Issue of WeisMind
 	- We pick up at one of the darkest days of Andrew's life... well, what he thought was one of the darkest days of his life. Little did he know, this was just the tip of the iceberg for what was coming ahead. Can Andrew ever stop hitting rock bottom? Or was he just looking at it wrong the entire time, totally flipping his entire reality and understanding of himself and the universe. Find out next time, on the WeisMind Newsletter!
 -
+- P.S. - Being that I am a
+-
