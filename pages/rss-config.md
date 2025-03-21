@@ -88,15 +88,6 @@
   mediatype:: `website`
   contenttype:: `text/html`
   favicons:: `http://feeds.feedburner.com/favicon.ico`
-- http://phdcomics.com/gradfeed.php
-  url:: `https://phdcomics.com/`
-  title:: `
-  description:: `Link to Piled Higher and Deeper`
-  mediatype:: `website`
-  contenttype:: `text/html`
-  images:: `http://phdcomics.com/comics/archive/phd011525s.gif`
-  favicons:: `https://phdcomics.com/favicon.ico`
-  	PHD Comics: NEW BOOK! Out of Your Mind!`
 - https://xkcd.com/rss.xml
   url:: `https://xkcd.com/`
   title:: `Square Units`
@@ -135,32 +126,3 @@
   mediatype:: `website`
   contenttype:: `text/html`
   favicons:: `http://feeds.feedburner.com/favicon.ico`
-- https://www.polygon.com/rss/index.xml
-  url:: `https://www.polygon.com/`
-  title:: `Polygon: Gaming and Entertainment News, Culture, Reviews, and More`
-  sitename:: `Polygon`
-  description:: `Your source for the latest in video games, sci-fi, fantasy, tabletop games, anime, horror, books, and comics.`
-  mediatype:: `website`
-  contenttype:: `text/html`
-  images:: `https://platform.polygon.com/wp-content/uploads/sites/2/2024/08/polygon-siteicon-article_1e63d1.png`
-  favicons:: `https://www.polygon.com/static-assets/icons/favicon-32x32.png`
-- https://toucharcade.com/community/forums/-/index.rss
-  url:: `https://toucharcade.com/`
-  title:: `TouchArcade – iPhone and iPad Games`
-  mediatype:: `website`
-  contenttype:: `text/html`
-  images:: `https://toucharcade.com/styles/toucharcade/toucharcade/logo.png`
-  favicons:: `https://toucharcade.com/styles/toucharcade/toucharcade/favicon/favicon-196x196.png`
-- http://feeds.feedburner.com/psblog
-  url:: `http://feeds.feedburner.com/`
-  title:: `Error 404 (Not Found)!!1`
-  mediatype:: `website`
-  contenttype:: `text/html`
-  favicons:: `http://feeds.feedburner.com/favicon.ico`
-- https://feeds.megaphone.fm/ESP5765452710
-  url:: `https://feeds.megaphone.fm/`
-  title:: `Megaphone`
-  mediatype:: `website`
-  contenttype:: `text/html`
-  images:: `https://feeds.megaphone.fm/images/logo.png`
-  favicons:: `https://feeds.megaphone.fm/favicon.ico`
