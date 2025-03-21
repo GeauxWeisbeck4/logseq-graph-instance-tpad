@@ -135,3 +135,27 @@
   mediatype:: `website`
   contenttype:: `text/html`
   favicons:: `http://feeds.ign.com/favicon.ico`
+- https://indiegamesplus.com/feed
+  url:: `https://indiegamesplus.com/`
+  title:: `Indie Games Plus`
+  sitename:: `Indie Games Plus`
+  description:: `Indie Games Plus - Creative, Personal, Passionate Digital Experiences`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://indiegamesplus.com/wp-content/uploads/2018/08/Pb-KPqaL.jpg`
+  favicons:: `https://indiegamesplus.com/wp-content/uploads/2018/08/Website-Fav-Icon.jpg`
+- http://feeds.feedburner.com/psblog
+  url:: `http://feeds.feedburner.com/`
+  title:: `Error 404 (Not Found)!!1`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  favicons:: `http://feeds.feedburner.com/favicon.ico`
+- https://www.polygon.com/rss/index.xml
+  url:: `https://www.polygon.com/`
+  title:: `Polygon: Gaming and Entertainment News, Culture, Reviews, and More`
+  sitename:: `Polygon`
+  description:: `Your source for the latest in video games, sci-fi, fantasy, tabletop games, anime, horror, books, and comics.`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://platform.polygon.com/wp-content/uploads/sites/2/2024/08/polygon-siteicon-article_1e63d1.png`
+  favicons:: `https://www.polygon.com/static-assets/icons/favicon-32x32.png`
