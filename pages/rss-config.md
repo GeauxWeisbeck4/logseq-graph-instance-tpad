@@ -53,12 +53,6 @@
   contenttype:: `text/html`
   images:: `https://imgs.xkcd.com/comics/square_units_2x.png`
   favicons:: `https://xkcd.com/s/919f27.ico`
-- http://feeds.ign.com/ign/all
-  url:: `http://feeds.ign.com/`
-  title:: `501 Origin hit suppressed (0)`
-  mediatype:: `website`
-  contenttype:: `text/html`
-  favicons:: `http://feeds.ign.com/favicon.ico`
 - https://indiegamesplus.com/feed
   url:: `https://indiegamesplus.com/`
   title:: `Indie Games Plus`
@@ -74,3 +68,10 @@
   mediatype:: `website`
   contenttype:: `text/html`
   favicons:: `http://feeds.feedburner.com/favicon.ico`
+- https://feeds.megaphone.fm/revisionisthistory
+  url:: `https://feeds.megaphone.fm/`
+  title:: `Megaphone`
+  mediatype:: `website`
+  contenttype:: `text/html`
+  images:: `https://feeds.megaphone.fm/images/logo.png`
+  favicons:: `https://feeds.megaphone.fm/favicon.ico`
