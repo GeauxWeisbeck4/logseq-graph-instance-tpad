@@ -5,5 +5,20 @@ tags:: data-structures, algorithms, bubble-sort, sorting-algorithms
 -
 - {{renderer excalidraw, excalidraw-2025-03-21-08-20-46}}
 - # Bubble Sort Code
-	- ```
+	- ```python
+	  def bubble_sort(arr):
+	      n = len(arr)
+	      for i in range(n):
+	          swapped = False
+	          for j in range(0, n-i-1):
+	              if arr[j] > arr[j+1]:
+	                  arr[j], arr[j+1] = arr[j+1], arr[j]
+	                  swapped = True
+	          if not swapped:
+	              break
+	      return arr
+	  
+	  # To make sure it works, print the following:
+	  # print(bubble_sort([2, 4, 7, 9, 1, 3, 5]))
 	  ```
+	-
