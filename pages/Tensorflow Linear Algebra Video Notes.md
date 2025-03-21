@@ -12,6 +12,7 @@ tags:: linear-algebra, ml-math, tensorflow
 						- 3 Dimensional space is a vector with three entries
 					- #### In ML
 						- Feature vector is a vector that represents features of an object
+							- ![image.png](../assets/image_1742561242587_0.png)
 						-
 		- ### Vector Embeddings
 		- ### Dimensionality Reduction
