@@ -1,4 +1,4 @@
-tags:: data-structures, algorithms, dsa
+tags:: data-structures, algorithms, dsa, sorting-algorithms
 category:: [[Data Structures and Algorithms]]
 
 - # Sorting Algorithms TOC
