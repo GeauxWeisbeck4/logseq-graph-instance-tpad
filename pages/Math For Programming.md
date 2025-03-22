@@ -4,5 +4,5 @@ tags:: math, programming, linear-algebra, no-starch-press, books
 - publisher:: No Starch Press
 - author:: Ronald T. Kneusel
 - # Table of Contents
-	- ## [[Chatper One - Computers and Numbers]]
+	- ## [[Chapter One - Computers and Numbers]]
 	-

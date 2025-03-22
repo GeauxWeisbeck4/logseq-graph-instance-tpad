@@ -64,4 +64,10 @@ tags:: math, programming, no-starch-press, books
 					  ```
 				- Python’s int function takes a second argument, a base in [2, 36] for symbols 0 through 9 and _A_ through _Z_ regardless of case. This means we can interpret the string 11011 in many ways:
 					- ```
+					  >>> x = '11011'
+					  
+					  >>> int(x), int(x, 2), int(x, 8), int(x, 16)
+					  
+					  (11011, 27, 4617, 69649)
 					  ```
+-
