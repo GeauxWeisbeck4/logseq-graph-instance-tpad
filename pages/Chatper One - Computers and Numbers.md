@@ -45,4 +45,23 @@ tags:: math, programming, no-starch-press, books
 					  ```
 			- Hexadecimal or Base-16
 				- Finally, base-16 numbers are _hexadecimal_ numbers, or simply _hex_. Hex is far more common than octal. Both Python and C understand hex numbers via the 0x prefix and %x format specifier:
-					-
+					- ```
+					  >>> 0xFDED
+					  
+					  65005
+					  
+					  >>> 0xdeadbeef
+					  
+					  3735928559
+					  
+					  >>> "%x" % 8675309
+					  
+					  '845fed'
+					  
+					  >>> hex(8675309)
+					  
+					  '0x845fed'
+					  ```
+				- Python’s int function takes a second argument, a base in [2, 36] for symbols 0 through 9 and _A_ through _Z_ regardless of case. This means we can interpret the string 11011 in many ways:
+					- ```
+					  ```
