@@ -7,4 +7,5 @@ category:: [[Data Structures and Algorithms]]
 		- ### [[Selection Sort]]
 		- ### [[Insertion Sort]]
 	- ## Advanced Sorting Algorithms
+		- [[Quick Sort]]
 		-
