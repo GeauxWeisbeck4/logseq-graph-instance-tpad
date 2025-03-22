@@ -14,6 +14,16 @@ tags:: algorithms, data-structures, sorting-algorithms, insertion-sort
 	- The beauty of Insertion Sort lies in its simplicity and efficiency. It is a straightforward algorithm that can be easily understood and implemented. Despite its simplicity, it is capable of efficiently sorting small to moderate-sized lists. Insertion Sort is a card sorting mechanism that mimics how people sort playing cards. It builds a sorted hand by inserting each card into its proper position. This algorithm is known for its simplicity and efficiency in sorting small to moderate-sized lists.
 - # Insertion Sort Performance #card
 	- Insertion Sort is a simple sorting algorithm that has an average and worst-case time complexity of $O(n^2)$. While this may seem inefficient, Insertion Sort excels in scenarios where the list is partially sorted. In fact, in the best case scenario, when the list is already sorted, Insertion Sort's time complexity becomes an impressive $O(n)$. This is because Insertion Sort only needs to process each element in the list once, without requiring any swaps. Thus, Insertion Sort's performance greatly depends on the initial state of the list, making it a valuable choice in certain situations.
-- # Insertion Sort Code
-	- ```
+- # Insertion Sort Code #card
+	- ```python
+	  def insertion_sort(arr):
+	      for i in range(1, len(arr)):
+	          key = arr[i]
+	          j = i-1
+	          while j >= 0 and key < arr[j]:
+	              arr[j+1] = arr[j]
+	              j-=1
+	          arr[j+1] = key
+	      return arr
+	  
 	  ```
