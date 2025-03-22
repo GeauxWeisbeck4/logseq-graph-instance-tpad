@@ -19,4 +19,7 @@ tags:: algorithms, data-structures, sorting-algorithms, selection-sort
 	          arr[i], arr[min_idx] = arr[min_idx], arr[i]
 	      return arr
 	  ```
-- # Selection Sort
+- # Selection Sort Use Cases #card
+  collapsed:: true
+	- The Selection Sort is a well-known sorting algorithm that is used to arrange a list of elements in either ascending or descending order. It achieves this by repetitively selecting the smallest (or largest, depending on the desired sorting order) element from the unsorted portion of the list and swapping it with the element in its correct position. This process continues until the entire list is sorted.
+-
