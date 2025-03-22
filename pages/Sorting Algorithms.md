@@ -8,5 +8,5 @@ category:: [[Data Structures and Algorithms]]
 		- ### [[Insertion Sort]]
 	- ## Advanced Sorting Algorithms
 		- ### [[Quick Sort]]
-		-
-		-
+		- ### [[Merge Sort]]
+-
