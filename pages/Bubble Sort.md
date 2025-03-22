@@ -25,5 +25,6 @@ tags:: data-structures, algorithms, bubble-sort, sorting-algorithms
 	  print(bubble_sort([2, 4, 7, 9, 1, 3, 5]))
 	  ```
 	-
--
-- In summary, Bubble Sort's unique iterative process and the concept of "bubbling up" make it a reliable and efficient algorithm for sorting elements in ascending order.
+- ## What type of use case is bubble sort useful for #card
+  collapsed:: true
+	- Bubble Sort's unique iterative process and the concept of "bubbling up" make it a reliable and efficient algorithm for sorting elements in ascending order.
