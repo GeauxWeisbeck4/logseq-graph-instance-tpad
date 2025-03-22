@@ -43,4 +43,6 @@ tags:: math, programming, no-starch-press, books
 					  
 					  '115'
 					  ```
--
+			- Hexadecimal or Base-16
+				- Finally, base-16 numbers are _hexadecimal_ numbers, or simply _hex_. Hex is far more common than octal. Both Python and C understand hex numbers via the 0x prefix and %x format specifier:
+					-
