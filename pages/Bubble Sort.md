@@ -28,4 +28,7 @@ tags:: data-structures, algorithms, bubble-sort, sorting-algorithms
 - ## What type of use case is bubble sort useful for #card
   collapsed:: true
 	- Bubble Sort's unique iterative process and the concept of "bubbling up" make it a reliable and efficient algorithm for sorting elements in ascending order.
--
+- ## Bubble Sort Time Complexity
+	- Bubble Sort is a sorting algorithm with a worst-case and average-case time complexity of $O(n^2)$, where $(n)$ represents the number of items being sorted. Although this time complexity might seem inefficient, Bubble Sort has an advantage in that its best-case time complexity (when the list is already sorted) is $O(n)$.
+	- This improved version of Bubble Sort checks if any swaps occurred, resulting in a more optimized performance. Additionally, Bubble Sort is a simple and easy-to-understand algorithm, making it a suitable choice for small or nearly sorted lists. It is also a stable sorting algorithm, meaning that the relative order of equal elements is preserved during the sorting process.
+	- Overall, while Bubble Sort may not be the most efficient algorithm for large datasets, its simplicity and optimized best-case time complexity make it a viable option for certain scenarios.
