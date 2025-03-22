@@ -28,4 +28,19 @@ tags:: math, programming, no-starch-press, books
 				  
 				  '100001000101111111101101'
 				  ```
+			- Octal or Base-8
+				- Base-8 numbers are _octal_ numbers. Their use has diminished in recent decades. We saw an example earlier with the number 1234.5678. In Python, use the 0o prefix, the oct function, or the %o format specifier:
+					- ```
+					  >>> 0o1234
+					  
+					  668
+					  
+					  >>> oct(77)
+					  
+					  '0o115'
+					  
+					  >>> "%o" % 77
+					  
+					  '115'
+					  ```
 -
