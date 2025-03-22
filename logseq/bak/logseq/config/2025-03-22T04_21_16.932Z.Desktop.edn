@@ -422,6 +422,6 @@
  :editor/logical-outdenting? true
  :editor/preferred-pasting-file? true
  :publishing/all-pages-public? true
- :graph/settings {:journal? false
+ :graph/settings {:journal? true
  :builtin-pages? true
  :orphan-pages? false}}
