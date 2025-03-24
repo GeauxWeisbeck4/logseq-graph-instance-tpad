@@ -1,4 +1,4 @@
-tags:: in-progress, developing, sprint-18, weismind, web-development, project
+tags:: in-progress, developing, sprint-18, weismind, web-development, project, stories
 
 - title:: [[WeisMind Website]]
 - sprint:: [[Sprint 18]]
