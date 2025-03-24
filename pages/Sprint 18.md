@@ -7,8 +7,6 @@ tags:: sprint-18, geaux-flow, digital-garden, stories
 -
 -
 - {{renderer :kanbandnd_67e18322-9cd2-4489-a5c5-d66cf0a13ad2}}
-	- {{query (and [] (page-tags [[stories]]) (page-tags [[backlog]]))}}
-	- {{query (and [] (page-tags [[stories]]) (page-tags [[in-progress]]))}}
-	- {{query (and [] (page-tags [[stories]]) (page-tags [[done]]))}}
--
--
+	- ## Backlog
+		- TODO [[Cigbreak]]
+		- TODO
