@@ -7,13 +7,9 @@ tags:: sprint-18, geaux-flow, digital-garden, stories
 -
 -
 - {{renderer :kanbandnd_67e18322-9cd2-4489-a5c5-d66cf0a13ad2}}
-	- ## Backlog
+	- tasks
 		- TODO [[Cigbreak]]
-	- ## In-Progress
-		- TODO [[WeisMind Website]]
-			- TODO Finish structure of site
-		- TODO Plan [[Sprint 18]]
-	- # Done
-		- DONE [[Sprint 17]]
-		- DONE [[Sprint 16]]
--
+		- DOING
+		  :LOGBOOK:
+		  CLOCK: [2025-03-24 Mon 12:28:42]
+		  :END:
