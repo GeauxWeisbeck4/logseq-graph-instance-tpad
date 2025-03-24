@@ -7,5 +7,6 @@ tags:: sprint-18, geaux-flow, digital-garden, stories
 -
 -
 - {{renderer :kanbandnd_67e18322-9cd2-4489-a5c5-d66cf0a13ad2}}
-	- {{query (and [] (page-tags [[stories]]))}}
+	- {{query (and [] (page-tags [[stories]]) (and))}}
+	- {{query (and[] (page-tags [[backlog]]))}}
 	-
