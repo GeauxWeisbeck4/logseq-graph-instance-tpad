@@ -1,4 +1,4 @@
-tags:: sprint-18, geaux-flow, digital-garden, stories, backlog, in-progress
+tags:: sprint-18, geaux-flow, digital-garden, stories
 
 - sprint:: [[Sprint 18]]
 - startdate::   [[Mar 24th, 2025]]
@@ -7,5 +7,5 @@ tags:: sprint-18, geaux-flow, digital-garden, stories, backlog, in-progress
 -
 -
 - {{renderer :kanbandnd_67e18322-9cd2-4489-a5c5-d66cf0a13ad2}}
-	- {{query (and [] (page-tags [[stories]]))}}
+	- {{query (and [] (page-tags [[stories]]) (page-tags [[backlog]]))}}
 	-
