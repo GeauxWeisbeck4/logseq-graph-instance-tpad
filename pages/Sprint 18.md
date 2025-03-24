@@ -13,4 +13,7 @@ tags:: sprint-18, geaux-flow, digital-garden, stories
 		- TODO [[WeisMind Website]]
 			- TODO Finish structure of site
 		- TODO Plan [[Sprint 18]]
-		-
+	- # Done
+		- DONE [[Sprint 17]]
+		- DONE [[Sprint 16]]
+-
