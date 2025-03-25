@@ -5,5 +5,6 @@ tags:: roadmap.sh, course, data-structures, algorithms, dsa, programming, comput
 - # Intermediate Data Structures and Algorithms Course
 - # TOC
 	- # [[Part One - Algorithm Analysis and Design Paradigms]]
+		- ## [[Asymptotic Analysis - Big O, Big Omega, and Big Theta Notation]]
 		- ## [[Analyzing Time Complexity of Recursive Algorithms]]
 		-
