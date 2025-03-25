@@ -9,4 +9,5 @@ category:: [[Data Structures and Algorithms]]
 	- ## Advanced Sorting Algorithms
 		- ### [[Quick Sort]]
 		- ### [[Merge Sort]]
--
+		- ### [[Heap Sort]]
+		-
