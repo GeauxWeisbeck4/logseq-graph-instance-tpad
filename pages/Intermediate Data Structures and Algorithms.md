@@ -19,5 +19,6 @@ tags:: roadmap.sh, course, data-structures, algorithms, dsa, programming, comput
 		- ## [[Fenwick Trees (Binary Indexed Trees) - Efficient Range Queries]]
 		- ## [[Applying Tree Structures to Social Media Case Study]]
 	- # [[Part Three - Graph Algorithms]]
+		- ## [[Graph Representations - Adjacency Matrix and Adjacency List]]
 		-
 -
