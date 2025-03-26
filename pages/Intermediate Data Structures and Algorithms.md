@@ -13,5 +13,6 @@ tags:: roadmap.sh, course, data-structures, algorithms, dsa, programming, comput
 		- ## [[Case Study Introduction - Optimizing a Social Media Search Algorithm]]
 	- # [[Part Two - Advanced Tree Structures]]
 		- ## [[Balanced Search Trees - AVL Trees and Red Black Trees]]
+		- ## [[B-Trees - Implementation and Use in Databases]]
 		-
 -
