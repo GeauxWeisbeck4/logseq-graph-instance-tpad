@@ -11,5 +11,6 @@ tags:: roadmap.sh, course, data-structures, algorithms, dsa, programming, comput
 		- ## [[Dynamic Programming - Principles and Applications]]
 		- ## [[Greedy Algorithms - Activity Selection and Huffman Coding]]
 		- ## [[Case Study Introduction - Optimizing a Social Media Search Algorithm]]
+	- # [[Part Two - Advanced Tree Structures]]
 		-
 -

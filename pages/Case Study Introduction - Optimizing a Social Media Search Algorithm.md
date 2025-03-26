@@ -1,5 +1,4 @@
--
-- # Case Study Introduction: Optimizing a Social Media Feed Algorithm
+# Case Study Introduction: Optimizing a Social Media Feed Algorithm
 	- Social media feeds are a ubiquitous part of modern life, and the algorithms that power them play a crucial role in shaping our online experiences. Optimizing these algorithms is a complex challenge that requires careful consideration of various factors, including user engagement, content relevance, and fairness. This lesson introduces a case study focused on optimizing a social media feed algorithm, setting the stage for exploring various algorithm design paradigms and data structures in subsequent modules. We will define the problem, identify key performance indicators (KPIs), and discuss the trade-offs involved in designing an effective feed algorithm.
 	- ## Defining the Social Media Feed Optimization Problem
 		- The core problem is to design an algorithm that ranks and presents content (e.g., posts, articles, videos) to users in a way that maximizes their engagement and satisfaction. This is not a simple task, as user preferences are diverse, content volume is massive, and the definition of "engagement" can vary.
