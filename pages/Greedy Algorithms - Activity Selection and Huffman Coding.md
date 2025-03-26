@@ -1,5 +1,4 @@
--
-- # Greedy Algorithms: Activity Selection and Huffman Coding
+# Greedy Algorithms: Activity Selection and Huffman Coding
 	- Greedy algorithms are a powerful paradigm for solving optimization problems. They make locally optimal choices at each step with the hope of finding a global optimum. While this approach doesn't always guarantee the best solution, it often provides a good approximation and is computationally efficient. This lesson will explore the greedy approach through two classic examples: the Activity Selection Problem and Huffman Coding. Understanding these examples will provide a solid foundation for recognizing and applying greedy algorithms in various problem-solving scenarios.
 	- ## Greedy Algorithms: Core Principles
 		- Greedy algorithms operate on the principle of making the "best" choice at each stage of the algorithm, without regard to future consequences. This "best" choice is determined by a specific criterion, which is crucial to the algorithm's success.
