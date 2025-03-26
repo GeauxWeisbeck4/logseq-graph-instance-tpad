@@ -17,5 +17,7 @@ tags:: roadmap.sh, course, data-structures, algorithms, dsa, programming, comput
 		- ## [[Trie Data Structure - Implementation and Applications]]
 		- ## [[Segment Trees - Range Queries and Updates]]
 		- ## [[Fenwick Trees (Binary Indexed Trees) - Efficient Range Queries]]
+		- ## [[Applying Tree Structures to Social Media Case Study]]
+	- # [[Part Three - Graph Algorithms]]
 		-
 -
