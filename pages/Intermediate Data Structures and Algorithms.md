@@ -16,5 +16,6 @@ tags:: roadmap.sh, course, data-structures, algorithms, dsa, programming, comput
 		- ## [[B-Trees - Implementation and Use in Databases]]
 		- ## [[Trie Data Structure - Implementation and Applications]]
 		- ## [[Segment Trees - Range Queries and Updates]]
+		- ## [[Fenwick Trees (Binary Indexed Trees) - Efficient Range Queries]]
 		-
 -
