@@ -9,5 +9,6 @@ tags:: roadmap.sh, course, data-structures, algorithms, dsa, programming, comput
 		- ## [[Analyzing Time Complexity of Recursive Algorithms]]
 		- ## [[Divide and Conquer - Merge Sort and Quick Sort]]
 		- ## [[Dynamic Programming - Principles and Applications]]
+		- ## [[Greedy Algorithms - Activity Selection and Huffman Coding]]
 		-
 -
