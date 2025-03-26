@@ -14,5 +14,6 @@ tags:: roadmap.sh, course, data-structures, algorithms, dsa, programming, comput
 	- # [[Part Two - Advanced Tree Structures]]
 		- ## [[Balanced Search Trees - AVL Trees and Red Black Trees]]
 		- ## [[B-Trees - Implementation and Use in Databases]]
+		- ## [[Trie Data Structure - Implementation and Applications]]
 		-
 -
