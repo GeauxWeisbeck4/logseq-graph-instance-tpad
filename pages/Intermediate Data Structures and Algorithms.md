@@ -12,5 +12,6 @@ tags:: roadmap.sh, course, data-structures, algorithms, dsa, programming, comput
 		- ## [[Greedy Algorithms - Activity Selection and Huffman Coding]]
 		- ## [[Case Study Introduction - Optimizing a Social Media Search Algorithm]]
 	- # [[Part Two - Advanced Tree Structures]]
+		- ## [[Balanced Search Trees - AVL Trees and Red Black Trees]]
 		-
 -
