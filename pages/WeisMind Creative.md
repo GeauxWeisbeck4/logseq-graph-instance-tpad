@@ -19,6 +19,7 @@ tags:: weismind, company, brand, company-home
 	- ## TODO [[WeisMind Newsletter Issue One - Welcome to WeisMind]]
 		- ### TODO Write Draft
 		- ### TODO Edit Draft
+		-
 		- ### TODO Creative Assets on Canva
 		- ### TODO Design newsletter in Substack
 		- ### TODO Publish and share on social media
