@@ -154,4 +154,8 @@ tags:: linux, virtual-machines, c-lang, hacking
 	  ```
 	- This means that we can look at the `/proc/[pid]/mem` file to locate the heap of a running process. If we can read from the heap, we can locate the string we want to modify. And if we can write to the heap, we can replace this string with whatever we want.
 - # pid
-	- a process is an instance of a program with a unique process ID. This process ID used by many functions and system calls to interact
+	- a process is an instance of a program with a unique process ID. This process ID used by many functions and system calls to interact with and manipulate processes
+		- Use `ps` to get PID of running processes
+- # C program
+	- We now have everything we need to write a script or program that finds a string in the heap of a running process and then replaces it with another string (of the same length or shorter). We will work with the following simple program that infinitely loops and prints a “strduplicated” string.
+	-
