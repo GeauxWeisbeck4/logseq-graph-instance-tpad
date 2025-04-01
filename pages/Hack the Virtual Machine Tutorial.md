@@ -299,4 +299,6 @@ tags:: linux, virtual-machines, c-lang, hacking
 			- ```
 			  [569] Holberton (0x560bd500a2a0)
 			  ```
-	- -> `0x560bd500a2a0` < `0x560bd500a2a0` <
+	- -> `0x560bd500a2a0` < `0x560bd500a2a0` < `560bd502b000`
+		- This confirms our string is located at index `0x56` of the heap
+		- If we open the `/proc//mem` file in the
