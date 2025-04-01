@@ -286,4 +286,9 @@ tags:: linux, virtual-machines, c-lang, hacking
 		  ```
 		- Circling back to what we said earlier, we can see that the stack (`[stack]`) is located in high memory addresses and the heap (`[heap]`) in the lower memory addresses.
 	- # [heap]
-	-
+		- Using the map file we cand find the information needs to locate our string:
+			- ```
+			  560bd500a000-560bd502b000 rw-p 00000000 00:00 0                          [heap]
+			  ```
+		- The heap
+			- Starts at address
