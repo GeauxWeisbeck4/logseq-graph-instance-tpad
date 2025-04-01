@@ -77,4 +77,14 @@ tags:: linux, virtual-machines, c-lang, hacking
 	  The proc filesystem is a pseudo-filesystem which provides an interface to kernel data structures.  It is commonly mounted at `/proc`.  Most of it is read-only, but some files allow kernel variables to be changed.
 	  ```
 	- If you list the contents of the `/proc` directory, there will be a lot of files. We'll focus on:
-		- `/proc/[pid]/`
+		- `/proc/[pid]/mem`
+		- `/proc/[pid]/maps`
+- # mem
+	- ```
+	  /proc/[pid]/mem
+	                This file can be used to access the pages of a process's memory
+	            through open(2), read(2), and lseek(2).
+	  ```
+		- Can we access and modify the entire virtual memory of any process?
+- # maps
+-
