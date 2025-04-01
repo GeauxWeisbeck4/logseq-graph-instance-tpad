@@ -12,4 +12,6 @@ tags:: python, programming, software-design, books
 		- ### 2. Making sense depends on who we are
 			- When using a low-level language, we incur the cognitive load of assembling micro steps into steps more meaningful
 			- When using a high-level language, we incur similar load translating functions of functions into actual operations on data
-		- ### 3.
+			- Experts understand more but also prefer to understand at a more complex level
+				- ![comprehension.svg](../assets/comprehension_1743507570384_0.svg)
+		- ### 3. Programs are just another kind of data
