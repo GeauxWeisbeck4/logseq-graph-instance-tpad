@@ -70,4 +70,6 @@ tags:: linux, virtual-machines, c-lang, hacking
 	- Depends on your computer architecture (64-bit)
 		- So theoretically the size of each process' virtual memory is 2^64 bytes
 			- Theoretically, the highest memory address possible is `0xffffffffffffffff` (1.8446744e+19), and the lowest is `0x0`
-			-
+		- `0x55d327a43` is small compared to `0xffffffffffffffff` so it is probably a lower memory address
+			- We will confirm this when we look at the `proc` file system
+		-
