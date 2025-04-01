@@ -8,4 +8,6 @@ tags:: python, programming, software-design, books
 	- ## Section 1.2 - The Big Ideas
 		- ### 1. The larger a system grows, the more it grows in complexity
 			- ![complexity.svg](../assets/complexity_1743507327800_0.svg)
-			-
+			- However, the number of things we can hold in working memory at any time is fixed and fairly small [[Hermans2021](https://third-bit.com/sdxpy/bib/#Hermans2021)]. If we want to build large programs that we can understand, we therefore need to construct them out of pieces that interact in a small number of ways. Figuring out what those pieces and interactions should be is the core of what we call “design”.
+		- ### 2. Making sense depends on who we are
+			- When using a low-level language, we incur the cognitive load
