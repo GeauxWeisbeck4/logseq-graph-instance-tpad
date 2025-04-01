@@ -60,5 +60,6 @@ tags:: linux, virtual-machines, c-lang, hacking
 				         Memory for the new string is obtained with malloc(3), and can be freed with free(3).
 				  ```
 			- So will this operation be in a low or high virtual memory address? low obvious. since it needs to be dynamically allocated - let's say the heap and test our theory by compiling our program
-			-
+				- ```
+				  ```
 			-
