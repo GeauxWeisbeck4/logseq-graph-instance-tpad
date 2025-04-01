@@ -14,4 +14,9 @@ tags:: linux, virtual-machines, c-lang, hacking
 		- Each process has its own virtual memory
 		- The amount of virtual memory depends on your system's architecture
 		- Most OS virtual memory handling process looks like:
+			- ![virtual_memory.png](../assets/virtual_memory_1743518013319_0.png)
+		- High memory address
+			- Command line arguments and environment variables
+			- The stack growing downwards
+		- Lower memory addresses
 			-
