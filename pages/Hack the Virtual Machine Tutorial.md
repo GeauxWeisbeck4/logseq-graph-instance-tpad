@@ -72,4 +72,9 @@ tags:: linux, virtual-machines, c-lang, hacking
 			- Theoretically, the highest memory address possible is `0xffffffffffffffff` (1.8446744e+19), and the lowest is `0x0`
 		- `0x55d327a43` is small compared to `0xffffffffffffffff` so it is probably a lower memory address
 			- We will confirm this when we look at the `proc` file system
-		-
+- # The proc filesystem
+	- ```
+	  The proc filesystem is a pseudo-filesystem which provides an interface to kernel data structures.  It is commonly mounted at `/proc`.  Most of it is read-only, but some files allow kernel variables to be changed.
+	  ```
+	- If you list the contents of the `/proc` directory, there will be a lot of files. We'll focus on:
+		- `/proc/[pid]/`
