@@ -423,4 +423,5 @@
  :editor/preferred-pasting-file? true
  :publishing/all-pages-public? true
  :graph/settings {:journal? true
- :builtin-pages? true}}
+ :builtin-pages? true
+ :orphan-pages? true}}
