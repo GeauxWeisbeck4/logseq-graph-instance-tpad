@@ -201,5 +201,61 @@ tags:: linux, virtual-machines, c-lang, hacking
 				- `/proc/193703/maps`
 				- `/proc/193703/mem`
 			- Run `ls -la` in the directory
-			-
+				- ```
+				  geauxweisbeck4@DESKTOP-U0OP3L5:/proc/193703$ ls -la
+				  total 0
+				  dr-xr-xr-x   9 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:04 .
+				  dr-xr-xr-x 375 root           root           0 Mar 30 13:58 ..
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 arch_status
+				  dr-xr-xr-x   2 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 attr
+				  -r--------   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 auxv
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 cgroup
+				  --w-------   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 clear_refs
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:04 cmdline
+				  -rw-r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 comm
+				  -rw-r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 coredump_filter
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 cpuset
+				  lrwxrwxrwx   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:04 cwd -> /home/geauxweisbeck4/guides/hacking-virtual-machine/part-one
+				  -r--------   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:04 environ
+				  lrwxrwxrwx   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 exe -> /home/geauxweisbeck4/guides/hacking-virtual-machine/part-one/loop
+				  dr-x------   2 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:04 fd
+				  dr-xr-xr-x   2 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 fdinfo
+				  -rw-r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 gid_map
+				  -r--------   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 io
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 limits
+				  -rw-r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 loginuid
+				  dr-x------   2 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 map_files
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 maps
+				  -rw-------   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 mem
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 mountinfo
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 mounts
+				  -r--------   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 mountstats
+				  dr-xr-xr-x  65 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 net
+				  dr-x--x--x   2 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 ns
+				  -rw-r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 oom_adj
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 oom_score
+				  -rw-r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 oom_score_adj
+				  -r--------   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 pagemap
+				  -r--------   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 personality
+				  -rw-r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 projid_map
+				  lrwxrwxrwx   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 root -> /
+				  -rw-r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 sched
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 schedstat
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 sessionid
+				  -rw-r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 setgroups
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 smaps
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 smaps_rollup
+				  -r--------   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 stack
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:04 stat
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 statm
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:04 status
+				  -r--------   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 syscall
+				  dr-xr-xr-x   3 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 task
+				  -rw-r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 timens_offsets
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 timers
+				  -rw-rw-rw-   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 timerslack_ns
+				  -rw-r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:09 uid_map
+				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:04 wchan
+				  ```
+- # `/proc/pid/maps`
 -
