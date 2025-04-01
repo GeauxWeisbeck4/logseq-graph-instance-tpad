@@ -10,5 +10,8 @@ tags:: linux, virtual-machines, c-lang, hacking
 		- Freeing applications from having to use a shared memory  space
 		- Increased security due to memory isolation
 		- Conceptually being able to use more memory than is actually physically available on computer due to the technique of paging
-		-
-		-
+	- ## Key Points
+		- Each process has its own virtual memory
+		- The amount of virtual memory depends on your system's architecture
+		- Most OS virtual memory handling process looks like:
+			-
