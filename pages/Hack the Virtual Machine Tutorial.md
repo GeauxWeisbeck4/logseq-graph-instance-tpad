@@ -152,3 +152,6 @@ tags:: linux, virtual-machines, c-lang, hacking
 	  
 	                Under Linux 2.0 there is no field giving pathname.
 	  ```
+	- This means that we can look at the `/proc/[pid]/mem` file to locate the heap of a running process. If we can read from the heap, we can locate the string we want to modify. And if we can write to the heap, we can replace this string with whatever we want.
+- # pid
+	- a process is an instance of a program with a unique process ID. This process ID used by many functions and system calls to interact
