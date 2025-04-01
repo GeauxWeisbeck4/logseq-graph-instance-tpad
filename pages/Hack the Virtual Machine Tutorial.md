@@ -19,4 +19,7 @@ tags:: linux, virtual-machines, c-lang, hacking
 			- Command line arguments and environment variables
 			- The stack growing downwards
 		- Lower memory addresses
-			-
+			- "Executable" - a little more complicated but good enough for now
+			- Heap growing upwards
+				- Heap is a portion of memory that is dynamically allocated using `malloc`
+	- **
