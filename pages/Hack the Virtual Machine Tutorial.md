@@ -61,5 +61,9 @@ tags:: linux, virtual-machines, c-lang, hacking
 				  ```
 			- So will this operation be in a low or high virtual memory address? low obvious. since it needs to be dynamically allocated - let's say the heap and test our theory by compiling our program
 				- ```
+				  $ gcc -Wall -Wextra -pedantic -Werror main.c -o holberton
+				  $ ./holberton
+				  // 0x55d327a432a0
 				  ```
-			-
+			- We get our duplicated string address of `0x55d327a432a0` - how do we know if this is low or high virtual memory address?
+		-
