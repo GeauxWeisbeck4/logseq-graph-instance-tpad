@@ -15,3 +15,4 @@ tags:: python, programming, software-design, books
 			- Experts understand more but also prefer to understand at a more complex level
 				- ![comprehension.svg](../assets/comprehension_1743507570384_0.svg)
 		- ### 3. Programs are just another kind of data
+			- Source code is just text, etc. Treating programs like data allows us to solve problems in elegant ways.
