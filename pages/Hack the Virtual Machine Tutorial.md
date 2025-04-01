@@ -158,5 +158,39 @@ tags:: linux, virtual-machines, c-lang, hacking
 		- Use `ps` to get PID of running processes
 - # C program
 	- We now have everything we need to write a script or program that finds a string in the heap of a running process and then replaces it with another string (of the same length or shorter). We will work with the following simple program that infinitely loops and prints a “strduplicated” string.
-		- ```
+		- ```c
+		  #include <stdlib.h>
+		  #include <stdio.h>
+		  #include <string.h>
+		  #include <unistd.h>
+		  
+		  /**              
+		   * main - uses strdup to create a new string, loops forever-ever
+		   *                
+		   * Return: EXIT_FAILURE if malloc failed. Other never returns
+		   */
+		  int main(void)
+		  {
+		       char *s;
+		       unsigned long int i;
+		  
+		       s = strdup("Holberton");
+		       if (s == NULL)
+		       {
+		            fprintf(stderr, "Can't allocate mem with malloc\n");
+		            return (EXIT_FAILURE);
+		       }
+		       i = 0;
+		       while (s)
+		       {
+		            printf("[%lu] %s (%p)\n", i, s, (void *)s);
+		            sleep(1);
+		            i++;
+		       }
+		       return (EXIT_SUCCESS);
+		  }
 		  ```
+		- When we compile it and run it, we notice it runs forever
+		- How would we write a script that finds a string in a heap of a running process?
+-
+-
