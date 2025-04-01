@@ -1,5 +1,8 @@
 tags:: linux, virtual-machines, c-lang, hacking
+title:: Hack the Virtual Memory - C strings & proc
 
+- title:: [[Hack the virtual memory - c strings & proc]]
+-
 - # Intro
 	- Virtual memory - idealized abstraction of the storage resources that are actually available on a given machine
 	- Virtual Machine
