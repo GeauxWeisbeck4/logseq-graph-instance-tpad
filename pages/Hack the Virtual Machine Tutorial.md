@@ -291,4 +291,7 @@ tags:: linux, virtual-machines, c-lang, hacking
 			  560bd500a000-560bd502b000 rw-p 00000000 00:00 0                          [heap]
 			  ```
 		- The heap
-			- Starts at address
+			- Starts at address `560bd500a000` in the virtual memory process
+			- Ends at memory address `560bd502b000`
+			- Is readable and writable (rw)
+			-
