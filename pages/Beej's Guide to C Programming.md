@@ -1,3 +1,5 @@
 tags:: c-lang, beej-guides, programming, computer-science
 
--
+- title:: [[Beej's Guide to C Programming]]
+- author:: Beej
+- # Beej's Guide to C Programming
