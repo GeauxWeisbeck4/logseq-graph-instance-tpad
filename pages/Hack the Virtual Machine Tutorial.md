@@ -194,8 +194,8 @@ tags:: linux, virtual-machines, c-lang, hacking
 		- How would we write a script that finds a string in a heap of a running process?
 			- We need to find the PID
 				- ```
-				  $ ps aux | grep ./loop | grep -v grep
-				  
+				  geauxweisbeck4@DESKTOP-U0OP3L5:~/guides/hacking-virtual-machine/part-one$ ps aux | grep ./loop | grep -v grep
+				  geauxwe+  193703  0.0  0.0   2680  1048 pts/5    S+   11:04   0:00 ./loop
 				  ```
--
+			- Our PID is 193703 -> `maps` and `mems` we want are in the `/proc/193`
 -
