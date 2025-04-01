@@ -302,5 +302,6 @@ tags:: linux, virtual-machines, c-lang, hacking
 	- -> `0x560bd500a2a0` < `0x560bd500a2a0` < `560bd502b000`
 		- This confirms our string is located at index `0x56` of the heap
 		- If we open the `/proc/193703/mem` file in the and find memory address `0x560bd500a2a0`, we can write to the heap process and overwrite the "Holberton" string
-		-
--
+		- Write a script to do just that below
+- # Overwriting the string in the virtual memory
+	-
