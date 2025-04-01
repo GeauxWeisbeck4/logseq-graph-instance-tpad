@@ -293,9 +293,10 @@ tags:: linux, virtual-machines, c-lang, hacking
 		- The heap
 			- Starts at address `560bd500a000` in the virtual memory process
 			- Ends at memory address `560bd502b000`
+			  id:: 67ec0266-f75b-46fa-8e35-751cdddb3dc6
 			- Is readable and writable (rw)
 		- If we look at our still running process
 			- ```
 			  [569] Holberton (0x560bd500a2a0)
 			  ```
-	- -> ``0x560bd500a2a0)
+	- -> `0x560bd500a2a0` < `0x560bd500a2a0` <
