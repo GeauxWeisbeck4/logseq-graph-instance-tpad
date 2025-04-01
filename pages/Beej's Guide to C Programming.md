@@ -4,4 +4,5 @@ tags:: c-lang, beej-guides, programming, computer-science
 - author:: Beej
 - # Beej's Guide to C Programming
 	- ## Chapter Two - Hello, world!
+		- C is a low-level language
 -
