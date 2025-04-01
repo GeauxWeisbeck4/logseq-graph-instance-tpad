@@ -25,7 +25,7 @@ tags:: linux, virtual-machines, c-lang, hacking
 	- **Virtual memory is not the same as RAM**
 - # Simple C Program
 	- Writing a simple c program here:
-	- ```
+	- ```c
 	  #include <stdlib.h>
 	  #include <stdio.h>
 	  #include <string.h>
@@ -50,3 +50,6 @@ tags:: linux, virtual-machines, c-lang, hacking
 	      return (EXIT_SUCCESS);
 	  }
 	  ```
+	- ## `strdup`
+		- How does `strdup` create copy of string "
+		-
