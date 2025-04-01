@@ -192,5 +192,7 @@ tags:: linux, virtual-machines, c-lang, hacking
 		  ```
 		- When we compile it and run it, we notice it runs forever
 		- How would we write a script that finds a string in a heap of a running process?
+			- We need to find the PID
+				-
 -
 -
