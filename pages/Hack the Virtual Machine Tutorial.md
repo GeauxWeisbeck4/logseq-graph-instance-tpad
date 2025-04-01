@@ -426,7 +426,20 @@ tags:: linux, virtual-machines, c-lang, hacking
 		      break
 		  ```
 		- And run it in the terminal like:
-		-
+			- ```
+			  (venv) geauxweisbeck4@DESKTOP-U0OP3L5:~/guides/hacking-virtual-machine$ python3 read_write_heap.py 193703 Smyderton "Fuck Yall!"
+			  [*] maps: /proc/193703/maps
+			  [*] mem: /proc/193703/mem
+			  [*] Found [heap]:
+			          pathname = [heap]
+			          addresses = 560bd500a000-560bd502b000
+			          permissions = rw-p
+			          offset = 00000000
+			          inode = 0
+			          Addr start [560bd500a000] | end [560bd502b000]
+			  [*] Found 'Smyderton' at 2a0
+			  [*] Writing 'Fuck Yall!' at 560bd500a2a0
+			  ```
 	- And we get:
 		- ```
 		  [2187] Holberton (0x560bd500a2a0)
@@ -561,3 +574,4 @@ tags:: linux, virtual-machines, c-lang, hacking
 		  [2316] Fuck Yall! (0x560bd500a2a0)
 		  [2317] Fuck Yall! (0x560bd500a2a0)
 		  ```
+- # WHOOOOAAAA!!!
