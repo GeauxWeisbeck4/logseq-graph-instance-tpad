@@ -197,5 +197,9 @@ tags:: linux, virtual-machines, c-lang, hacking
 				  geauxweisbeck4@DESKTOP-U0OP3L5:~/guides/hacking-virtual-machine/part-one$ ps aux | grep ./loop | grep -v grep
 				  geauxwe+  193703  0.0  0.0   2680  1048 pts/5    S+   11:04   0:00 ./loop
 				  ```
-			- Our PID is 193703 -> `maps` and `mems` we want are in the `/proc/193`
+			- Our PID is 193703 -> `maps` and `mems` we want are in the `/proc/193703` directory
+				- `/proc/193703/maps`
+				- `/proc/193703/mem`
+			- Run `ls -la` in the directory
+			-
 -
