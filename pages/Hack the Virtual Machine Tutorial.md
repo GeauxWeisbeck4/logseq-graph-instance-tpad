@@ -67,4 +67,5 @@ tags:: linux, virtual-machines, c-lang, hacking
 				  ```
 			- We get our duplicated string address of `0x55d327a432a0` - how do we know if this is low or high virtual memory address?
 - # How big is the virtual machine?
-	- Depends on your computer architecture?
+	- Depends on your computer architecture (64-bit)
+		- So theore
