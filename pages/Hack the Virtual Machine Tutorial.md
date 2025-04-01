@@ -258,4 +258,32 @@ tags:: linux, virtual-machines, c-lang, hacking
 				  -r--r--r--   1 geauxweisbeck4 geauxweisbeck4 0 Apr  1 11:04 wchan
 				  ```
 - # `/proc/pid/maps`
--
+	- Print out the file of our process:
+		- ```
+		  geauxweisbeck4@DESKTOP-U0OP3L5:/proc/193703$ cat maps
+		  560baa234000-560baa235000 r--p 00000000 08:20 186896                     /home/geauxweisbeck4/guides/hacking-virtual-machine/part-one/loop
+		  560baa235000-560baa236000 r-xp 00001000 08:20 186896                     /home/geauxweisbeck4/guides/hacking-virtual-machine/part-one/loop
+		  560baa236000-560baa237000 r--p 00002000 08:20 186896                     /home/geauxweisbeck4/guides/hacking-virtual-machine/part-one/loop
+		  560baa237000-560baa238000 r--p 00002000 08:20 186896                     /home/geauxweisbeck4/guides/hacking-virtual-machine/part-one/loop
+		  560baa238000-560baa239000 rw-p 00003000 08:20 186896                     /home/geauxweisbeck4/guides/hacking-virtual-machine/part-one/loop
+		  560bd500a000-560bd502b000 rw-p 00000000 00:00 0                          [heap]
+		  7f41ae9c1000-7f41ae9c4000 rw-p 00000000 00:00 0
+		  7f41ae9c4000-7f41ae9ec000 r--p 00000000 08:20 51803                      /usr/lib/x86_64-linux-gnu/libc.so.6
+		  7f41ae9ec000-7f41aeb74000 r-xp 00028000 08:20 51803                      /usr/lib/x86_64-linux-gnu/libc.so.6
+		  7f41aeb74000-7f41aebc3000 r--p 001b0000 08:20 51803                      /usr/lib/x86_64-linux-gnu/libc.so.6
+		  7f41aebc3000-7f41aebc7000 r--p 001fe000 08:20 51803                      /usr/lib/x86_64-linux-gnu/libc.so.6
+		  7f41aebc7000-7f41aebc9000 rw-p 00202000 08:20 51803                      /usr/lib/x86_64-linux-gnu/libc.so.6
+		  7f41aebc9000-7f41aebd6000 rw-p 00000000 00:00 0
+		  7f41aebe3000-7f41aebe5000 rw-p 00000000 00:00 0
+		  7f41aebe5000-7f41aebe6000 r--p 00000000 08:20 51800                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+		  7f41aebe6000-7f41aec11000 r-xp 00001000 08:20 51800                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+		  7f41aec11000-7f41aec1b000 r--p 0002c000 08:20 51800                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+		  7f41aec1b000-7f41aec1d000 r--p 00036000 08:20 51800                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+		  7f41aec1d000-7f41aec1f000 rw-p 00038000 08:20 51800                      /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+		  7ffff4b87000-7ffff4ba8000 rw-p 00000000 00:00 0                          [stack]
+		  7ffff4be7000-7ffff4beb000 r--p 00000000 00:00 0                          [vvar]
+		  7ffff4beb000-7ffff4bed000 r-xp 00000000 00:00 0                          [vdso]
+		  ```
+		- Circling back to what we said earlier, we can see that the stack (`[stack]`) is located in high memory addresses and the heap (`[heap]`) in the lower memory addresses.
+	- # [heap]
+	-
