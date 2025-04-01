@@ -22,4 +22,5 @@ tags:: linux, virtual-machines, c-lang, hacking
 			- "Executable" - a little more complicated but good enough for now
 			- Heap growing upwards
 				- Heap is a portion of memory that is dynamically allocated using `malloc`
-	- **
+	- **Virtual memory is not the same as RAM**
+-
