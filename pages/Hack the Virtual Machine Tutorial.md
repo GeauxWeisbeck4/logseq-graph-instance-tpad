@@ -53,5 +53,12 @@ tags:: linux, virtual-machines, c-lang, hacking
 	- ## `strdup`
 		- How does `strdup` create copy of string "Holberton"?
 			- It has to first reserve space since it is creating a new string - probably using `malloc`
+			- We can confirm in the manual page:
+				- ```
+				  DESCRIPTION
+				         The  strdup()  function returns a pointer to a new string which is a duplicate of the string s.
+				         Memory for the new string is obtained with malloc(3), and can be freed with free(3).
+				  ```
+			- So will this operation be in a low or high virtual memory address? low obvious. since it needs to be dynamically allocated - let's say the heap and test our theory by compiling our program
 			-
-		-
+			-
