@@ -11,4 +11,5 @@ tags:: python, programming, software-design, books
 			- However, the number of things we can hold in working memory at any time is fixed and fairly small [[Hermans2021](https://third-bit.com/sdxpy/bib/#Hermans2021)]. If we want to build large programs that we can understand, we therefore need to construct them out of pieces that interact in a small number of ways. Figuring out what those pieces and interactions should be is the core of what we call “design”.
 		- ### 2. Making sense depends on who we are
 			- When using a low-level language, we incur the cognitive load of assembling micro steps into steps more meaningful
-			- When using a high-level language, we incur similar load translating functions into functions
+			- When using a high-level language, we incur similar load translating functions of functions into actual operations on data
+		- ### 3.
