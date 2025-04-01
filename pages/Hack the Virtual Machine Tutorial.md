@@ -51,5 +51,7 @@ tags:: linux, virtual-machines, c-lang, hacking
 	  }
 	  ```
 	- ## `strdup`
-		- How does `strdup` create copy of string "
+		- How does `strdup` create copy of string "Holberton"?
+			- It has to first reserve space since it is creating a new string - probably using `malloc`
+			-
 		-
