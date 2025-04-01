@@ -7,4 +7,8 @@ tags:: linux, virtual-machines, c-lang, hacking
 		- Main storage, as seen by a process or task, is seen as a contiguous address space or collection of contiguous segments
 	- The OS manages the assignment of real memory to virtual memory space
 	- Benefits include:
-		- Freeing applications from having to share a single memory
+		- Freeing applications from having to use a shared memory  space
+		- Increased security due to memory isolation
+		- Conceptually being able to use more memory than is actually physically available on computer due to the technique of paging
+		-
+		-
