@@ -158,4 +158,5 @@ tags:: linux, virtual-machines, c-lang, hacking
 		- Use `ps` to get PID of running processes
 - # C program
 	- We now have everything we need to write a script or program that finds a string in the heap of a running process and then replaces it with another string (of the same length or shorter). We will work with the following simple program that infinitely loops and prints a “strduplicated” string.
-		-
+		- ```
+		  ```
