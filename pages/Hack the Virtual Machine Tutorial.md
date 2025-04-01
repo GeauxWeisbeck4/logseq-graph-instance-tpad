@@ -294,4 +294,8 @@ tags:: linux, virtual-machines, c-lang, hacking
 			- Starts at address `560bd500a000` in the virtual memory process
 			- Ends at memory address `560bd502b000`
 			- Is readable and writable (rw)
-			-
+		- If we look at our still running process
+			- ```
+			  [569] Holberton (0x560bd500a2a0)
+			  ```
+	- -> ``0x560bd500a2a0)
