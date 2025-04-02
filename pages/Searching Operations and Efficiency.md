@@ -15,3 +15,10 @@ tags:: dsa, data-structures, algorithms, searching-operations, efficiency, pytho
 		- ### Use cases
 			- Binary search is great for large and sorted data sets. Linear search is good for small unsorted data sets
 	-
+	- ## Time Complexity
+		- ### Worst Case Linear Search `O(n)`
+			- If the element we are looking for is at the very end of our data set, we must go through each and every element so the time complexity is O(n)
+		- ### Best Case Linear Search  `O(1)`
+			- When our element is the very first element in our list, we return it so we get O(1) time complexity
+		- It is important to remember that the time complexity for linear search depends on the distribution of the data set. If it is closer to the beginning, our time complexity is more around O(1). If it is evenly distributed, our time complexity is closer to `O(n/2)`
+	-

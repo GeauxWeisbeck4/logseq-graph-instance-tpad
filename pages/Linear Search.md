@@ -30,10 +30,3 @@ tags:: data-structures, algorithms, dsa, searching-operations, efficiency, linea
 	  # Element 7 is present at index 2
 	  ```
 	-
-- # Time Complexity
-	- ## Worst Case - `O(n)`
-		- If the element we are looking for is at the very end of our data set, we must go through each and every element so the time complexity is O(n)
-	- ## Best Case - `O(1)`
-		- When our element is the very first element in our list, we return it so we get O(1) time complexity
-	- It is important to remember that the time complexity for linear search depends on the distribution of the data set. If it is closer to the beginning, our time complexity is more around O(1). If it is evenly distributed, our time complexity is closer to `O(n/2)`
-	-
