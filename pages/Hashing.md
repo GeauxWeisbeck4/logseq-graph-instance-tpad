@@ -70,5 +70,5 @@ tags:: data-structures, algorithms, searching-operations, efficiency, hashing
 	- In addition to their one-way nature, cryptographic hash functions have several other important properties. For instance, they are resistant to collisions, which means that it is highly unlikely for two different inputs to produce the same hash value. This property ensures that each piece of data has a unique representation and helps prevent any data corruption or tampering.
 	- Furthermore, cryptographic hash functions are computationally efficient, allowing them to process large amounts of data quickly. This efficiency is crucial for applications that require fast and secure data processing, such as digital signatures and password verification.
 	- Some notable examples of cryptographic hash functions include MD5, SHA-256, and SHA-3. These functions play vital roles in various technologies, such as the blockchain, where they are widely used to safeguard the integrity of data and transactions.
-- # Using Python's Built In Hash Function
+- # Handling Collisions
 	-
