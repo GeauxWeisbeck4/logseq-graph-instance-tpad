@@ -20,5 +20,6 @@ tags:: dsa, data-structures, algorithms, searching-operations, efficiency, pytho
 			- If the element we are looking for is at the very end of our data set, we must go through each and every element so the time complexity is O(n)
 		- ### Best Case Linear Search  `O(1)`
 			- When our element is the very first element in our list, we return it so we get O(1) time complexity
-		- It is important to remember that the time complexity for linear search depends on the distribution of the data set. If it is closer to the beginning, our time complexity is more around O(1). If it is evenly distributed, our time complexity is closer to `O(n/2)`
-	-
+		- It is important to remember that the time complexity for linear search depends on the distribution of the data set. If it is closer to the beginning, our time complexity is more around O(1). If it is evenly distributed, our time complexity is closer to `O(n/2)`.
+			- Linear search can also be used in combination with other algorithms to improve it's efficiency
+		-
