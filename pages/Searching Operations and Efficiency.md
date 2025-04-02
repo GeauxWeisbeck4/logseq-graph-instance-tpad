@@ -14,23 +14,25 @@ tags:: dsa, data-structures, algorithms, searching-operations, efficiency, pytho
 			- Binary search requires the data be sorted first, linear search doesn't require data to be sorted
 		- ### Use cases
 			- Binary search is great for large and sorted data sets. Linear search is good for small unsorted data sets
-- # Algorithm Analysis
-	- ## Linear Search
-		- ### Time Complexity
-			- Worst Case `O(n)`
-				- If the element we are looking for is at the very end of our data set, we must go through each and every element so the time complexity is O(n)
-			- Best Case `O(1)`
-				- When our element is the very first element in our list, we return it so we get O(1) time complexity
-			- It is important to remember that the time complexity for linear search depends on the distribution of the data set. If it is closer to the beginning, our time complexity is more around O(1). If it is evenly distributed, our time complexity is closer to `O(n/2)`.
-			- Linear search can be used in combination with other algorithms or data structures to improve its efficiency. For example, if the dataset is sorted, binary search can be used instead of linear search to achieve a time complexity of O(log n), which is significantly faster for large datasets.
-		- ### Space Complexity
-			- Linear search has a constant space complexity of `O(1)`, making it very memory efficient and can handle data sets of any size
-			- Additionally, it should be noted that the linear search algorithm's efficient use of memory allows for swift execution and minimizes the likelihood of encountering memory-related performance issues. As a result, this algorithm provides a reliable and effective solution for searching and retrieving data, even when dealing with exceedingly large datasets.
-	- ## Binary Search
-		- ### Time Complexity
-			- Worst Case `Olog(n)`
-				- In the toughest cases, its speed is categorized as O(log n), with 'n' being the total items in your data. This log-based speed shows that even as data grows, the required steps don't spike up linearly, but increase in a log fashion, making binary search super efficient.
-				- The cleverness of binary search lies in how it halves the data each time, comparing your target with the middle item. This tactic speeds things up since you're cutting down the search area by 50% every time you compare. Thanks to this, the search speed stays log-based, meaning even if your data gets really big, the search time doesn't go through the roof.
-				- Moreover, binary search isn't just a smart trick; it's a key part of computer science, used in loads of different algorithms and tools. Its knack for quick searching makes it invaluable for tasks that involve finding or fetching items from a sorted data pile. When developers use binary search ideas, they can make their code work faster and more efficiently.
-		- ### Space Complexity
-			-
+	- # Algorithm Analysis
+		- ## Linear Search
+			- ### Time Complexity
+				- Worst Case `O(n)`
+					- If the element we are looking for is at the very end of our data set, we must go through each and every element so the time complexity is O(n)
+				- Best Case `O(1)`
+					- When our element is the very first element in our list, we return it so we get O(1) time complexity
+				- It is important to remember that the time complexity for linear search depends on the distribution of the data set. If it is closer to the beginning, our time complexity is more around O(1). If it is evenly distributed, our time complexity is closer to `O(n/2)`.
+				- Linear search can be used in combination with other algorithms or data structures to improve its efficiency. For example, if the dataset is sorted, binary search can be used instead of linear search to achieve a time complexity of O(log n), which is significantly faster for large datasets.
+			- ### Space Complexity O(1)
+				- Linear search has a constant space complexity of `O(1)`, making it very memory efficient and can handle data sets of any size
+				- Additionally, it should be noted that the linear search algorithm's efficient use of memory allows for swift execution and minimizes the likelihood of encountering memory-related performance issues. As a result, this algorithm provides a reliable and effective solution for searching and retrieving data, even when dealing with exceedingly large datasets.
+		- ## Binary Search
+			- ### Time Complexity
+				- Worst Case `Olog(n)`
+					- In the toughest cases, its speed is categorized as O(log n), with 'n' being the total items in your data. This log-based speed shows that even as data grows, the required steps don't spike up linearly, but increase in a log fashion, making binary search super efficient.
+					- The cleverness of binary search lies in how it halves the data each time, comparing your target with the middle item. This tactic speeds things up since you're cutting down the search area by 50% every time you compare. Thanks to this, the search speed stays log-based, meaning even if your data gets really big, the search time doesn't go through the roof.
+					- Moreover, binary search isn't just a smart trick; it's a key part of computer science, used in loads of different algorithms and tools. Its knack for quick searching makes it invaluable for tasks that involve finding or fetching items from a sorted data pile. When developers use binary search ideas, they can make their code work faster and more efficiently.
+			- ### Space Complexity O(1)
+				- When binary search is used in the iterative style, like in the example we've shown, it also boasts a space complexity of O(1). This indicates that the memory it needs stays the same, no matter how big the dataset gets.
+				- This fixed memory requirement is a big plus for binary search compared to other search methods. It means that even as your data pile grows, the memory you use doesn't bloat up, making it a smart pick for looking through large datasets. Plus, binary search isn't just about being fast; it's also about not hogging too much space. This trait is super useful in scenarios where keeping memory use low is key, especially when dealing with huge datasets.
+	- ## Real World Applications
