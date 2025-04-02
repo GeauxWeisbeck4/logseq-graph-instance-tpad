@@ -13,4 +13,5 @@ tags:: dsa, data-structures, algorithms, searching-operations, efficiency, pytho
 		- ### Prerequisite
 			- Binary search requires the data be sorted first, linear search doesn't require data to be sorted
 		- ### Use cases
-			-
+			- Binary search is great for large and sorted data sets. Linear search is good for small unsorted data sets
+	-

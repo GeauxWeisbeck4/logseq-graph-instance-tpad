@@ -30,3 +30,6 @@ tags:: data-structures, algorithms, dsa, searching-operations, efficiency, linea
 	  # Element 7 is present at index 2
 	  ```
 	-
+- # Time Complexity
+	- ## Worst Case O(n)
+		-
