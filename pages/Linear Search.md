@@ -33,4 +33,6 @@ tags:: data-structures, algorithms, dsa, searching-operations, efficiency, linea
 - # Time Complexity
 	- ## Worst Case - `O(n)`
 		- If the element we are looking for is at the very end of our data set, we must go through each and every element so the time complexity is O(n)
-	- ## Best Case - `O`
+	- ## Best Case - `O(1)`
+		- When our element is the very first element in our list, we return it so we get O(1) time complexity
+-
