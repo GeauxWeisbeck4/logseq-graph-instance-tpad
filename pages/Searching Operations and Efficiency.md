@@ -48,4 +48,5 @@ tags:: dsa, data-structures, algorithms, searching-operations, efficiency, pytho
 		- **Optimized Database Search:** Binary search is particularly useful in databases that maintain their records in a sorted fashion. By leveraging binary search, these databases can achieve optimized data retrieval. With each search operation, the search space is halved, leading to faster search times and improved performance.
 		- **Version Control:** Binary search is not limited to algorithms and hardware design. It has practical applications in version control systems as well. When identifying regressions or tracing the origin of a specific bug, binary search can be used on different versions of the software. This enables developers to pinpoint the exact version where the issue began, facilitating efficient bug fixing and software maintenance.
 	- # [[Hashing]]
-		-
+	- ## [[Big O Notation and Time Complexity]]
+	-
