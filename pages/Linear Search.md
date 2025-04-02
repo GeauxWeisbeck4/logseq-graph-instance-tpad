@@ -16,4 +16,6 @@ tags:: data-structures, algorithms, dsa, searching-operations, efficiency, linea
 	          	return i
 	      return -1
 	  ```
-	-
+- ## Linear Search Example
+	- ```python
+	  ```
