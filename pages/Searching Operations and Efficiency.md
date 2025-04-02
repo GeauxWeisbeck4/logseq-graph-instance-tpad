@@ -30,4 +30,7 @@ tags:: dsa, data-structures, algorithms, searching-operations, efficiency, pytho
 		- ### Time Complexity
 			- Worst Case `Olog(n)`
 				- In the toughest cases, its speed is categorized as O(log n), with 'n' being the total items in your data. This log-based speed shows that even as data grows, the required steps don't spike up linearly, but increase in a log fashion, making binary search super efficient.
-			- Best Case
+				- The cleverness of binary search lies in how it halves the data each time, comparing your target with the middle item. This tactic speeds things up since you're cutting down the search area by 50% every time you compare. Thanks to this, the search speed stays log-based, meaning even if your data gets really big, the search time doesn't go through the roof.
+				- Moreover, binary search isn't just a smart trick; it's a key part of computer science, used in loads of different algorithms and tools. Its knack for quick searching makes it invaluable for tasks that involve finding or fetching items from a sorted data pile. When developers use binary search ideas, they can make their code work faster and more efficiently.
+		- ### Space Complexity
+			-
