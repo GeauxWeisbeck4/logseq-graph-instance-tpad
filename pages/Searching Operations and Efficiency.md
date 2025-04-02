@@ -7,4 +7,10 @@ tags:: dsa, data-structures, algorithms, searching-operations, efficiency, pytho
 	- ## Search Algorithms
 		- ## [[Linear Search]]
 		- ## [[Binary Search]]
-	-
+	- ## Comparison
+		- ### Efficiency
+			- Binary search is much more efficient as it doesn't go through each and every element
+		- ### Prerequisite
+			- Binary search requires the data be sorted first, linear search doesn't require data to be sorted
+		- ### Use cases
+			-
