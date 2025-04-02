@@ -3,4 +3,5 @@ type:: Category Home
 
 - # DSA TOC
 	- ## [[Sorting Algorithms]]
+	- ## [[Searching Operations and Efficiency]]
 	-
