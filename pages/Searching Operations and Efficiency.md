@@ -27,4 +27,7 @@ tags:: dsa, data-structures, algorithms, searching-operations, efficiency, pytho
 			- Linear search has a constant space complexity of `O(1)`, making it very memory efficient and can handle data sets of any size
 			- Additionally, it should be noted that the linear search algorithm's efficient use of memory allows for swift execution and minimizes the likelihood of encountering memory-related performance issues. As a result, this algorithm provides a reliable and effective solution for searching and retrieving data, even when dealing with exceedingly large datasets.
 	- ## Binary Search
-		-
+		- ### Time Complexity
+			- Worst Case `Olog(n)`
+				- In the toughest cases, its speed is categorized as O(log n), with 'n' being the total items in your data. This log-based speed shows that even as data grows, the required steps don't spike up linearly, but increase in a log fashion, making binary search super efficient.
+			- Best Case
