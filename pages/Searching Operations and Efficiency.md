@@ -22,4 +22,7 @@ tags:: dsa, data-structures, algorithms, searching-operations, efficiency, pytho
 			- When our element is the very first element in our list, we return it so we get O(1) time complexity
 		- It is important to remember that the time complexity for linear search depends on the distribution of the data set. If it is closer to the beginning, our time complexity is more around O(1). If it is evenly distributed, our time complexity is closer to `O(n/2)`.
 			- Linear search can also be used in combination with other algorithms to improve it's efficiency
+		- ### Time Complexity of Binary Serach `Olog(n)`
+			- But the list must be sorted
+	- ## Space Complexity
 		-
