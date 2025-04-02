@@ -71,4 +71,9 @@ tags:: data-structures, algorithms, searching-operations, efficiency, hashing
 	- Furthermore, cryptographic hash functions are computationally efficient, allowing them to process large amounts of data quickly. This efficiency is crucial for applications that require fast and secure data processing, such as digital signatures and password verification.
 	- Some notable examples of cryptographic hash functions include MD5, SHA-256, and SHA-3. These functions play vital roles in various technologies, such as the blockchain, where they are widely used to safeguard the integrity of data and transactions.
 - # Handling Collisions
-	-
+	- Two methods that we'll talk about
+	- ## Separate Chaining
+		- Separate chaining, as we touched on before, tackles collisions by storing clashing elements in a linked list. This approach isn't just straightforward; it's also pretty effective. First off, separate chaining keeps things running smoothly, even when collisions happen. This is especially handy when your hash table is packed (high load factor), ensuring consistent performance. Plus, it's flexible in managing collisions, thanks to its ability to dynamically adjust memory for extra elements. This means the hash table can easily handle more elements as needs change.
+		- Another perk of separate chaining is how it makes hash tables more modular and easy to tweak. Using linked lists for collision situations gives developers the freedom to fine-tune and upgrade their hash table's functionality. This could mean adding new features, like searching based on specific conditions, or doing more complex data tricks. Separate chaining not only makes your hash table efficient but also super adaptable for different needs and scenarios.
+		- Separate chaining also boosts the hash table's ability to handle problems. Since collisions are dealt with using linked lists, any issues are confined to just those colliding elements. So, if a collision happens, it doesn't throw the whole hash table off balance, just the bits involved in the collision. This localized impact means the hash table's performance doesn't take a big hit, keeping things reliable and consistent.
+		-
