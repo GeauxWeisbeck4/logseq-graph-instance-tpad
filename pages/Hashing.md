@@ -11,4 +11,28 @@ tags:: data-structures, algorithms, searching-operations, efficiency, hashing
 	- In summary, hashing is a powerful technique that enables efficient storage and retrieval of data by converting key values into index values using a hash function. By minimizing the search time, it allows for quick access to data regardless of its size.
 	- ## Simplified Example
 		- Imagine you have a large bookshelf, and you wish to quickly find books based on their titles. Instead of searching each book one by one (linear search style), you decide to organize them alphabetically and create an index that says which shelf contains books starting with a specific letter. Now, if you want a book with a title starting with 'M', you'd directly go to the 'M' shelf. That's a rudimentary form of hashing!
-		-
+		- # `simple_hash.py`
+			- ```python
+			  def simple_hash(key, array_size):
+			      # Return index derived from hash of the key
+			      return sum(ord(char) for char in key) % array_size 
+			  
+			  # Create an empty shelf w/ 26 slots for each alphabet letter
+			  bookshelf = [None] * 26
+			  
+			  def add_book(title, bookshelf):
+			      index = simple_hash(title, len(bookshelf))
+			      if bookshelf[index] is None:
+			          bookshelf[index] = [title]
+			      else:
+			          bookshelf[index].append(title)
+			          
+			  def find_book(title, bookshelf):
+			      index = simple_hash(title, len(bookshelf))
+			      if bookshelf[index]:
+			          return title in bookshelf[index]
+			      return False
+			  
+			  add_book("Moby Dick", bookshelf)
+			  print(find_book("Moby Dick", bookshelf))
+			  ```
