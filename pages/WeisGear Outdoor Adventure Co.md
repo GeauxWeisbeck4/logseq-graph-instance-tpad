@@ -15,3 +15,5 @@ tags:: ecommerce, projects, nextjs, react, supabase, sprint-18
 	- ## [[WeisGear Niche and Target Audience]]
 	- ## [[WeisGear Project Planning]]
 	- **Apr 3, 2025, 01:46:20 PM**
+- Supabase
+	- vMyezjUruYDzEqQI
