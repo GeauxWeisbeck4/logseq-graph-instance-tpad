@@ -34,4 +34,5 @@ tags:: weismind, newsletter
 -
 - # Outline
 	- ## i. Introduction
-		- Welcome to the very first issue of the WeisMind Newsletter! My name is Andrew Weisbeck and I've created this newsletter as a resource to help you sharpen your mind. I've got quite a wide range of experience and a variety of interests which you can learn more about by stopping by my digital garden. It is a work in progress, but that will help you to get to know me a bit better as it is a place where you can find a lot of my personal writing, including an article I wrote to tell you a bit more about WeisMind while the
+		- Welcome to the very first issue of the WeisMind Newsletter! My name is Andrew Weisbeck and I've created this newsletter as a resource to help you sharpen your mind. I've got quite a wide range of experience and a variety of interests which you can learn more about by stopping by my digital garden. It is a work in progress, but that will help you to get to know me a bit better as it is a place where you can find a lot of my personal writing, including an article I wrote to tell you a bit more about WeisMind while I work on the website.
+		- I've wanted to publish this newsletter for quite a while, but it has been difficult for me to decide what "niche" that I should focus on.
