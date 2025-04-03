@@ -4,7 +4,10 @@ type:: Category Home
 - # DSA TOC
 	- # Data Structures
 		- ## [[Persistent Data Structures]]
-	-
-	- ## [[Sorting Algorithms]]
-	- ## [[Searching Operations and Efficiency]]
+	- # Algorithms
+		- ## [[Sorting Algorithms]]
+		- ## [[Searching Operations and Efficiency]]
+	- # Courses
+		- ## [[Intermediate Data Structures and Algorithms]]
+		-
 	-
