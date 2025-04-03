@@ -43,4 +43,5 @@ tags:: weismind, newsletter
 		- With that brief introduction to WeisMind over with, let's hop right into what I have planned for the very first edition!
 	- ## ii. Weis News
 		- ### a. "Tariffs like we've never seen in the history of the entire world!"
-			- This may be the first time that Trump isn't exaggerating - well, if he specifically said that. I'm only assuming that's how he's talked about it, but yes Donald, your tariffs are pretty tremendous - tremendously taxing that is. Prices are going to
+			- This may be the first time that Trump isn't exaggerating - well, if he specifically said that. I'm only assuming that's how he's talked about it, but yes Donald, your tariffs are pretty tremendous - tremendously taxing that is. Prices are going to increase everywhere on pretty much everything you can think of because we participate in the global economy.
+			- I'm going to get to exactly how a tariff works in a minute, but if you want to understand why the world is the way it is
