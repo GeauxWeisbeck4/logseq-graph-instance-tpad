@@ -6,4 +6,4 @@ tags:: Metaprogramming, computer-science, programming, notes
 - # Metaprogramming
 -
 - # Resources
-	-
+	- ## [Wikipedia - Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
