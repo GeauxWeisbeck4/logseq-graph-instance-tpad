@@ -54,7 +54,7 @@
 
  ;; Enable Block timestamps.
  ;; Default value: false
- :feature/enable-block-timestamps? false
+ :feature/enable-block-timestamps? true
 
  ;; Disable accent marks when searching.
  ;; After changing this setting, rebuild the search index by pressing (^C ^S).
@@ -318,7 +318,7 @@
 
  ;; Create a page for all properties.
  ;; Default value: true
- :property-pages/enabled? true
+ ;; :property-pages/enabled? true
 
  ;; Properties to exclude from having property pages
  ;; Example usage:
@@ -423,5 +423,8 @@
  :editor/preferred-pasting-file? true
  :publishing/all-pages-public? true
  :graph/settings {:journal? true
- :builtin-pages? true
- :orphan-pages? true}}
+ :builtin-pages? false
+ :orphan-pages? true
+ :excluded-pages? false}
+ :graph/forcesettings {:link-dist 60
+ :charge-strength 500}}
