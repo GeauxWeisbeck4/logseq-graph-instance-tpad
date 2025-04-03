@@ -11,10 +11,14 @@
             "id": "fae5102343f213e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "pages/Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Structures and Algorithms"
             }
           }
         ]
@@ -166,6 +170,8 @@
   },
   "active": "fae5102343f213e9",
   "lastOpenFiles": [
+    "pages/css.md",
+    "assets/virtual_memory_1743518013319_0.png",
     "logseq/bak/pages/Andrew's Portfolio Website/2025-03-14T20_51_30.238Z.Desktop.md",
     "logseq/bak/pages/Andrew's Portfolio Website/2025-03-13T15_17_27.594Z.Desktop.md",
     "logseq/bak/pages/Andrew's Portfolio Website/2025-03-12T14_15_11.037Z.Desktop.md",
