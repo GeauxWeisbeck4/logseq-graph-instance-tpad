@@ -42,4 +42,5 @@ tags:: weismind, newsletter
 		- If you enjoy reading this, please subscribe and share this with your friends and social network - even if it's the free subscription, which gets all of the main WeisMind content. The paid subscription gets some extra specials like my non-free zines, digital products, and other stuff like that I'm working on. I appreciate any help you can provide, especially sharing with others to help this project grow.
 		- With that brief introduction to WeisMind over with, let's hop right into what I have planned for the very first edition!
 	- ## ii. Weis News
-		- ##
+		- ### a. "Tariffs like we've never seen in the history of the entire world!"
+			-
