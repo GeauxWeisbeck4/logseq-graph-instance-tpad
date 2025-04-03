@@ -7,4 +7,7 @@ tags:: ecommerce, projects, nextjs, react, supabase, sprint-18
 - date-due:: [[Apr 6th, 2025]]
 - stories:: [[Create version 0.0.1 of store and deploy]], [[Create frontend layout with Figma/Penpot and initial code]], [[Setup backend for project]], [[Setup external services with APIs]]
 - # WeisGear Outdoor Adventure Co
-	- An ecommerce experience that
+	- An ecommerce experience that utilizes storytelling as the main strategy to sell used gear, engage new customers, nudge them towards becoming co-op members, and sell new gear using dropshipping.
+- # Table of Contents
+	- ## [[WeisGear Business Plan]]
+	-
