@@ -8,4 +8,6 @@ tags:: data-structures, algorithms, computer-science, Persistent Data Structures
 - # TOC
 	- ## Examples of Persistent Data Structures
 		- ### [[Linked Lists]]
+		- ### [[Trees]]
+		- ### [[Persistent Hash Array]]
 		-
