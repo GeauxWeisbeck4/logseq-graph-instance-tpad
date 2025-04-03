@@ -10,4 +10,8 @@ tags:: ecommerce, projects, nextjs, react, supabase, sprint-18
 	- An ecommerce experience that utilizes storytelling as the main strategy to sell used gear, engage new customers, nudge them towards becoming co-op members, and sell new gear using dropshipping.
 - # Table of Contents
 	- ## [[WeisGear Business Plan]]
+	- ## [[WeisGear Brand Identity and Strategy]]
+	- ## [[WeisGear Product Design]]
+	- ## [[WeisGear Niche and Target Audience]]
+	- ## [[WeisGear Project Planning]]
 	-
