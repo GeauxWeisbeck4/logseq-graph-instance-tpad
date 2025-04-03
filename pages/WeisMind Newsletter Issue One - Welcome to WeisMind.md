@@ -34,4 +34,4 @@ tags:: weismind, newsletter
 -
 - # Outline
 	- ## i. Introduction
-		- Thank you for che
+		- Welcome to the very first issue of the WeisMind Newsletter! My name is Andrew Weisbeck and I've created this newsletter as a resource to help you sharpen your mind.
