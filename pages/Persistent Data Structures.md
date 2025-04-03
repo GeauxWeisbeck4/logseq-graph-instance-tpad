@@ -10,4 +10,6 @@ tags:: data-structures, algorithms, computer-science, Persistent Data Structures
 		- ### [[Linked Lists]]
 		- ### [[Trees]]
 		- ### [[Persistent Hash Array]]
+	- ## Resources
+		- [Wikipedia - Persistent Data Structure](https://en.wikipedia.org/wiki/Persistent_data_structure)
 		-
