@@ -5,4 +5,6 @@ tags:: ecommerce, projects, nextjs, react, supabase, sprint-18
 - sprint:: [[Sprint 18]]
 - date-started::  [[Apr 3rd, 2025]] *13:40*
 - date-due:: [[Apr 6th, 2025]]
-- s
+- stories:: [[Create version 0.0.1 of store and deploy]], [[Create frontend layout with Figma/Penpot and initial code]], [[Setup backend for project]], [[Setup external services with APIs]]
+- # WeisGear Outdoor Adventure Co
+	- An ecommerce experience that
