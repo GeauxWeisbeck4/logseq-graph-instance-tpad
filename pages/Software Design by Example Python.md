@@ -6,4 +6,3 @@ tags:: python, software-design, books, programming
 	- A great book
 - # Table of Contents
 	- ## [[Chapter One - Introduction (SDXEPy]]
-	-
