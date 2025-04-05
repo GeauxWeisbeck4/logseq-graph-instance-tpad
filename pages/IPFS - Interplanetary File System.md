@@ -15,3 +15,7 @@ tags:: distributed-network, content-addressing, file-system, ipfs
 			- IPFS uses cryptographic hashes to verify the authenticity and integrity of files, making it difficult for malicious actors to tamper with or delete files
 		- ### Resiliance
 			- IPFS has no single point of failure, and users do not need to trust each other. In other words, the failure of a single or even multiple nodes in the network does not affect the functioning of the entire network, and an IPFS node can fetch data from the network as long as at least one other node in the network has that data, regardless of its location
+		- ### Centralization
+			- PFS is an open, distributed and participatory network that reduces data silos from centralized servers, making IPFS more resilient than traditional systems. No single entity or person controls, manages or owns IPFS; rather, it is a community-maintained project with multiple implementations of the protocol, multiple tools and apps leveraging that protocol, and multiple users and organizations contributing to its design and development
+		- ### Performance
+			- PFS provides faster access to data by enabling it to be replicated to and retrieved from multiple locations, and allowing users to access data from the nearest location using content addressing instead of location-based addressing. In other words, because data can be addressed based on its contents, a node on the network can fetch that data from _any_ other node in the network that has the data; thus, performance issues like latency are reduced
