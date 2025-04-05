@@ -29,4 +29,5 @@ tags:: distributed-network, content-addressing, file-system, ipfs
 			- IPFS benefits local-first software by providing a performant, decentralized, peer-to-peer data addressing, routing, and transfer protocol that prioritizes data storage and processing on individual devices. With IPFS, data can be stored, verified and processed locally, and then synchronized and shared with other IPFS nodes when a network connection is available.
 		- ## Vendor lock-in
 			- IPFS prevents vendor lock-in , as users have sovereignty over their data and infrastructure. This is enabled by content-addressing, which decouples the data from a single location or infrastructure provider. Unlike traditional cloud vendors, IPFS enables you to change data storage locations without changing things like APIs and data management. In addition, because IPFS is open-source, community-maintained and modular, users are not obligated to use a particular subsystem (described in [How IPFS works](https://docs.ipfs.tech/concepts/how-ipfs-works/)). Instead, users can customize IPFS for their preferred technologies, needs and values
-			- .
+- # How IPFS Works
+	-
