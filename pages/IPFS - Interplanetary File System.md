@@ -30,4 +30,15 @@ tags:: distributed-network, content-addressing, file-system, ipfs
 		- ## Vendor lock-in
 			- IPFS prevents vendor lock-in , as users have sovereignty over their data and infrastructure. This is enabled by content-addressing, which decouples the data from a single location or infrastructure provider. Unlike traditional cloud vendors, IPFS enables you to change data storage locations without changing things like APIs and data management. In addition, because IPFS is open-source, community-maintained and modular, users are not obligated to use a particular subsystem (described in [How IPFS works](https://docs.ipfs.tech/concepts/how-ipfs-works/)). Instead, users can customize IPFS for their preferred technologies, needs and values
 - # How IPFS Works
-	-
+	- ## Subsystems Overview
+		- All IPFS subsystems, ordered by purpose, are listed below, with links to the major subsystems discussed in this guide.
+		- | Purpose | Subsystem |
+		  | --- | --- |
+		  | Representing and organizing the data | [CIDs](https://docs.ipfs.tech/concepts/how-ipfs-works/#content-identifier-cid), [IPLD, UnixFS](https://docs.ipfs.tech/concepts/how-ipfs-works/#interplanetary-linked-data-ipld), MFS, DAG-CBOR, DAG-JSON, [CAR files](https://docs.ipfs.tech/concepts/how-ipfs-works/#content-addressable-archive-car-files) |
+		  | Content routing, linking between CID and IP addresses | [Kademlia DHT](https://docs.ipfs.tech/concepts/how-ipfs-works/#kademlia-distributed-hash-table-dht), [Delegated routing over HTTP](https://docs.ipfs.tech/concepts/how-ipfs-works/#delegated-routing-over-http), [Bitswap](https://docs.ipfs.tech/concepts/how-ipfs-works/#bitswap-for-content-routing), [mDNS](https://docs.ipfs.tech/concepts/how-ipfs-works/#mdns) |
+		  | Transferring data | [Bitswap](https://docs.ipfs.tech/concepts/how-ipfs-works/#bitswap-for-data-transfer), [HTTP Gateways](https://docs.ipfs.tech/concepts/how-ipfs-works/#ipfs-http-gateways), [Sneakernet](https://docs.ipfs.tech/concepts/how-ipfs-works/#sneakernet), Graphsync, more in development |
+		  | Addressing for data and peers | [Multiformats](https://docs.ipfs.tech/concepts/how-ipfs-works/#content-identifier-cid) |
+		  | Bridging between IPFS and HTTP | [IPFS Gateways](https://docs.ipfs.tech/concepts/how-ipfs-works/#ipfs-http-gateways), Pinning API Spec |
+		  | Peer-to-peer connectivity | libp2p (TCP, QUIC, WebRTC, WebTransport) |
+		  | Mutability and dynamic naming | IPNS (Interplanetary Naming System), DNSLink |
+		-
