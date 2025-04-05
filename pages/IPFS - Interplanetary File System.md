@@ -8,4 +8,7 @@ tags:: distributed-network, content-addressing, file-system, ipfs
 		- A decentralized network composed of IPFS nodes that is open and participatory.
 		- A modular suite of protocols and standards for organizing and transferring content-addressed data.
 	- ## What IPFS Isn't
-		- Storag
+		- A _storage provider_: While there are storage providers built with IPFS support (typically known as _pinning services_), IPFS itself is a protocol, not a provider.
+		- _A cloud service provider_: IPFS can be deployed on and complement cloud infrastructure, but it in of itself is not a cloud service provider.
+	- ## Problems IPFS Solves
+		-
