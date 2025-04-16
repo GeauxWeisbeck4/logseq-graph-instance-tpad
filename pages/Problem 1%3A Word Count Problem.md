@@ -15,4 +15,6 @@ tags:: python, no-starch-press, programming-books
 			  The maximum length of the line is 80 characters.
 		- ### Output
 			- Output the number of words in the input line
-	-
+	- ## Topics
+		- ### Strings
+			- Representing S
