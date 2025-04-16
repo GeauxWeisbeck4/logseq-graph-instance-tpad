@@ -17,4 +17,8 @@ tags:: python, no-starch-press, programming-books
 			- Output the number of words in the input line
 	- ## Topics
 		- ### Strings
-			- Representing S
+			- Representing strings
+			- String operators
+			- ### String methods
+				- ```
+				  ```
