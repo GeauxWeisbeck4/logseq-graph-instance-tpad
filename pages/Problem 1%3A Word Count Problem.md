@@ -35,5 +35,10 @@ tags:: python, no-starch-press, programming-books
 				  '   abc   '.strip()
 				  # abc
 				  
+				  # We can call it with a string as an argument to remove it
+				  'abc'.strip('a')
+				  # bc
+				  'abca'.strip('a')
+				  # bc
 				  
 				  ```
