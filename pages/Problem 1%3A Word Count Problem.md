@@ -27,5 +27,13 @@ tags:: python, no-starch-press, programming-books
 				  'ABC'.lower()
 				  # abc
 				  
+				  # Removes trailing or leading spaces
+				  '   abc'.strip()
+				  # abc
+				  'abc    '.strip()
+				  # abc 
+				  '   abc   '.strip()
+				  # abc
+				  
 				  
 				  ```
