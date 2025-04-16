@@ -21,3 +21,7 @@ tags:: phaserjs, game-dev, tutorial, programming, javascript, deno, typescript
 			  }
 			  ```
 			- This will load in 5 assets: 4 images and a sprite sheet. It may appear obvious to some of you, but I would like to point out the first parameter, also known as the asset key (i.e. 'sky', 'bomb'). This string is a link to the loaded asset and is what you'll use in your code when creating Game Objects. You're free to use any valid JavaScript string as the key.
+	- ## Display an Image
+		- In order to display one of the images we've loaded place the following code inside the `create` function:
+			- `this.add.image(400, 300, 'sky');`
+			-
