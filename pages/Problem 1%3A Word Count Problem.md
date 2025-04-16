@@ -22,23 +22,24 @@ tags:: python, no-starch-press, programming-books
 			- ### String methods
 				- ```
 				  # Makes everything upper or lower case
-				  'abc'.upper()
+				  >>> 'abc'.upper()
 				  # ABC
-				  'ABC'.lower()
+				  >>> 'ABC'.lower()
 				  # abc
 				  
 				  # Removes trailing or leading spaces
-				  '   abc'.strip()
+				  >>> '   abc'.strip()
 				  # abc
-				  'abc    '.strip()
+				  >>> 'abc    '.strip()
 				  # abc 
-				  '   abc   '.strip()
+				  >>> '   abc   '.strip()
 				  # abc
 				  
 				  # We can call it with a string as an argument to remove it
-				  'abc'.strip('a')
+				  >>> 'abc'.strip('a')
 				  # bc
-				  'abca'.strip('a')
+				  >>> 'abca'.strip('a')
 				  # bc
-				  
+				  >>> 'abca'.strip('ac')
+				  # b
 				  ```
