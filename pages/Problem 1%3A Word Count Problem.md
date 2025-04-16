@@ -1,3 +1,5 @@
 tags:: python, no-starch-press, programming-books
 
-- problem
+- problem-number::  dmopc15c7p2
+- problem-set:: DMOJ
+- #
