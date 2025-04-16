@@ -21,4 +21,8 @@ tags:: python, no-starch-press, programming-books
 			- String operators
 			- ### String methods
 				- ```
+				  # Makes everything upper case
+				  string = "abc"
+				  string.upper()
+				  # ABC
 				  ```
