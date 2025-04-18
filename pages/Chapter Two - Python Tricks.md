@@ -10,4 +10,5 @@ tags:: python, no-starch-press, programming-books, programming
 		  need to find all staff members who earn at least $100,000 per year. Your
 		  desired output is a list of tuples, each consisting of two values: the employee
 		  name and the employee’s yearly salary. Here’s the code you develop:
-		-
+			- ```python
+			  ```
