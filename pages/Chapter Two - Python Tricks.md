@@ -29,7 +29,7 @@ tags:: python, no-starch-press, programming-books, programming
 	  the meaning of code faster.
 	- Python offers a powerful way of creating new lists: list comprehension.
 	  The simple formula is as follows:
-	- [ expression + context ]``
+	- `[ expression + context ]`
 	- The enclosing brackets indicate that the result is a new list. The context
 	  defines which list elements to select. The expression defines how to modify
 	  each list element before adding the result to the
